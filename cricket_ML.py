@@ -41,7 +41,7 @@ fielding_positions = ['deep point','deepish point' , 'mid-off' ,'deep square leg
                      'shortcover' ,'deep shortward square', 'leave', 'short cover' ,'sweep',
                      'stumped', 'deep mid-wicket', 'silly point', 'outside-off' ]
 
-types_of_delivery = ["leg-cutter","wrong'un","off-break",'leg-side','length ball','length delivery','on pads','back of a length','short and wide','leg-break'
+types_of_delivery = ["over-pitched","leg-cutter","wrong'un","off-break",'leg-side','length ball','length delivery','on pads','back of a length','short and wide','leg-break'
                      ,'in-ducking','full toss','googly','short in length','flatter delivery','outside off stump','full-toss'
                      ,'yorker','quick delivery','length ball outside off','short of length','short ball','short outside off','inswinger','short',
                      'length ball off stump', 'short of a length off stump','length ball on stump' ,'short of a length' ,'flatter delivery',
@@ -158,7 +158,11 @@ for i in range(33,14,-1):
             elif any(c in text for c in ("slow","slower" ,"slows")):
                 bowling_area ='slow delivery'
                 bowling_area += check_after(bowling_area , text)
-               
+                
+             elif any(c in text for c in ("over-pitched","over-pitch")):
+                bowling_area ='over-pitch'
+                bowling_area += check_after(bowling_area , text)
+                
             else:
                 for bowl_pos in types_of_delivery:
                 
