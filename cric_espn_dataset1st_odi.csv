@@ -1,304 +1,301 @@
-,Batsman_Name,Over,Bowler_Name,Batsman_country,Bowler_country,Score,Run_rate,Match_time,Type_of_pitch,Type_of_Bowler,Type_of_Batsman,Bowling_area,Batting_area,Wickets,Result
-0,Quinton de Kock,0.1,Bhuvneshwar Kumar,India,South Africa,0/0,0.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
-1,Quinton de Kock,0.2,Bhuvneshwar Kumar,India,South Africa,0/0,0.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
-2,Quinton de Kock,0.3,Bhuvneshwar Kumar,India,South Africa,1/0,2.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,third man,0,1
-3,Hashim Amla,0.4,Bhuvneshwar Kumar,India,South Africa,3/0,4.5,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball on stump,fine leg,0,2
-4,Hashim Amla,0.5,Bhuvneshwar Kumar,India,South Africa,3/0,3.6,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,defend,0,0
-5,Hashim Amla,0.6,Bhuvneshwar Kumar,India,South Africa,3/0,3.0,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,defend,0,0
-6,Quinton de Kock,1.1,Jasprit Bumrah,India,South Africa,3/0,2.57,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,point,0,0
-7,Quinton de Kock,1.2,Jasprit Bumrah,India,South Africa,3/0,2.25,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length,third man,0,0
-8,Quinton de Kock,1.3,Jasprit Bumrah,India,South Africa,3/0,2.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-off,0,0
-9,Quinton de Kock,1.4,Jasprit Bumrah,India,South Africa,7/0,4.2,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,mid-off,0,4
-10,Quinton de Kock,1.5,Jasprit Bumrah,India,South Africa,7/0,3.81,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-off,0,0
-11,Quinton de Kock,1.6,Jasprit Bumrah,India,South Africa,7/0,3.5,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-off,0,0
-12,Hashim Amla,2.1,Bhuvneshwar Kumar,India,South Africa,9/0,4.15,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,0,2
-13,Hashim Amla,2.2,Bhuvneshwar Kumar,India,South Africa,10/0,4.28,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,fine leg,0,1
-14,Quinton de Kock,2.3,Bhuvneshwar Kumar,India,South Africa,10/0,4.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball outside off,fine leg,0,0
-15,Quinton de Kock,2.4,Bhuvneshwar Kumar,India,South Africa,11/0,4.12,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,third man,0,1
-16,Hashim Amla,2.5,Bhuvneshwar Kumar,India,South Africa,11/0,3.88,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length,defend,0,0
-17,Hashim Amla,2.6,Bhuvneshwar Kumar,India,South Africa,13/0,4.33,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,0,2
-18,Quinton de Kock,3.1,Jasprit Bumrah,India,South Africa,13/0,4.1,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball outside off,point,0,0
-19,Quinton de Kock,3.2,Jasprit Bumrah,India,South Africa,13/0,3.9,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,point,0,0
-20,Quinton de Kock,3.3,Jasprit Bumrah,India,South Africa,13/0,3.71,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball outside off,defend,0,0
-21,Quinton de Kock,3.4,Jasprit Bumrah,India,South Africa,13/0,3.54,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-on,0,0
-22,Quinton de Kock,3.5,Jasprit Bumrah,India,South Africa,13/0,3.39,Day,Hard,Right_arm_medium,Left_Hand_Batsman,straighter delivery outside off,cover,0,0
-23,Quinton de Kock,3.6,Jasprit Bumrah,India,South Africa,17/0,4.25,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery,cover,0,4
-24,Hashim Amla,4.1,Bhuvneshwar Kumar,India,South Africa,17/0,4.08,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,third man,0,0
-25,Hashim Amla,4.2,Bhuvneshwar Kumar,India,South Africa,18/0,4.15,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,square,0,1
-26,Quinton de Kock,4.3,Bhuvneshwar Kumar,India,South Africa,18/0,4.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball outside off,square,0,0
-27,Quinton de Kock,4.4,Bhuvneshwar Kumar,India,South Africa,18/0,3.85,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
-28,Quinton de Kock,4.5,Bhuvneshwar Kumar,India,South Africa,18/0,3.72,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,mid-off,0,0
-29,Quinton de Kock,4.6,Bhuvneshwar Kumar,India,South Africa,18/0,3.6,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
-30,Hashim Amla,5.1,Jasprit Bumrah,India,South Africa,18/0,3.48,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,cover,0,0
-31,Hashim Amla,5.2,Jasprit Bumrah,India,South Africa,22/0,4.12,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,0,4
-32,Hashim Amla,5.3,Jasprit Bumrah,India,South Africa,22/0,4.0,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,cover,0,0
-33,Hashim Amla,5.4,Jasprit Bumrah,India,South Africa,23/0,4.05,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,slip,0,1
-34,Quinton de Kock,5.5,Jasprit Bumrah,India,South Africa,23/0,3.94,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,slip,0,0
-35,Quinton de Kock,5.6,Jasprit Bumrah,India,South Africa,23/0,3.83,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball on stump,square,0,0
-36,Hashim Amla,6.1,Bhuvneshwar Kumar,India,South Africa,23/0,3.72,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,0,0
-37,Hashim Amla,6.2,Bhuvneshwar Kumar,India,South Africa,26/0,4.1,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,0,3
-38,Quinton de Kock,6.3,Bhuvneshwar Kumar,India,South Africa,26/0,4.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball outside off,cover,0,0
-39,Quinton de Kock,6.4,Bhuvneshwar Kumar,India,South Africa,27/0,4.05,Day,Hard,Right_arm_medium,Left_Hand_Batsman,outside off,point,0,1
-40,Hashim Amla,6.5,Bhuvneshwar Kumar,India,South Africa,28/0,4.09,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,point,0,1
-41,Quinton de Kock,6.6,Bhuvneshwar Kumar,India,South Africa,29/0,4.14,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,mid-off,0,1
-42,Quinton de Kock,7.1,Jasprit Bumrah,India,South Africa,29/0,4.04,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,mid-off,0,0
-43,Quinton de Kock,7.2,Jasprit Bumrah,India,South Africa,30/0,4.09,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball on stump,square,0,1
-44,Hashim Amla,7.3,Jasprit Bumrah,India,South Africa,30/1,4.0,Day,Hard,Right_arm_medium,Right_Hand_Batsman,off stump,square,1,-1
-45,Faf du Plessis,7.4,Jasprit Bumrah,India,South Africa,30/1,3.91,Day,Hard,Right_arm_medium,Right_Hand_Batsman,off stump,square,1,0
-46,Faf du Plessis,7.5,Jasprit Bumrah,India,South Africa,31/1,3.95,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,third man,1,1
-47,Quinton de Kock,7.6,Jasprit Bumrah,India,South Africa,31/1,3.87,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,1,0
-48,Faf du Plessis,8.1,Bhuvneshwar Kumar,India,South Africa,31/1,3.79,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
-49,Faf du Plessis,8.2,Bhuvneshwar Kumar,India,South Africa,31/1,3.72,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,1,0
-50,Faf du Plessis,8.3,Bhuvneshwar Kumar,India,South Africa,31/1,3.64,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,mid-on,1,0
-51,Faf du Plessis,8.4,Bhuvneshwar Kumar,India,South Africa,35/1,4.03,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off stump,mid-off,1,4
-52,Faf du Plessis,8.5,Bhuvneshwar Kumar,India,South Africa,39/1,4.41,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,mid-off,1,4
-53,Faf du Plessis,8.6,Bhuvneshwar Kumar,India,South Africa,43/1,4.77,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,slip,1,4
-54,Quinton de Kock,9.1,Hardik Pandya,India,South Africa,43/1,4.69,Day,Hard,Right_arm_medium,Left_Hand_Batsman,outside off,mid-on,1,0
-55,Quinton de Kock,9.2,Hardik Pandya,India,South Africa,47/1,5.03,Day,Hard,Right_arm_medium,Left_Hand_Batsman,outside off,mid-off,1,4
-56,Quinton de Kock,9.3,Hardik Pandya,India,South Africa,48/1,5.05,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,deep point,1,1
-57,Faf du Plessis,9.4,Hardik Pandya,India,South Africa,48/1,4.96,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,1,0
-58,Faf du Plessis,9.5,Hardik Pandya,India,South Africa,48/1,4.88,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball on stump,cover,1,0
-59,Faf du Plessis,9.6,Hardik Pandya,India,South Africa,49/1,4.9,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,deep point,1,1
-60,Faf du Plessis,10.1,Yuzvendra Chahal,India,South Africa,49/1,4.81,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,cover,1,0
-61,Faf du Plessis,10.2,Yuzvendra Chahal,India,South Africa,50/1,4.83,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,square,1,1
-62,Quinton de Kock,10.3,Yuzvendra Chahal,India,South Africa,52/1,4.95,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,outside off,long leg,1,2
-63,Quinton de Kock,10.4,Yuzvendra Chahal,India,South Africa,52/1,4.87,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,straighter delivery outside off,cover,1,0
-64,Quinton de Kock,10.5,Yuzvendra Chahal,India,South Africa,53/1,4.89,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,cover,1,1
-65,Faf du Plessis,10.6,Yuzvendra Chahal,India,South Africa,53/1,4.81,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,defend,1,0
-66,Quinton de Kock,11.1,Hardik Pandya,India,South Africa,54/1,4.83,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball on stump,defend,1,1
-67,Faf du Plessis,11.2,Hardik Pandya,India,South Africa,55/1,4.85,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,square,1,1
-68,Quinton de Kock,11.3,Hardik Pandya,India,South Africa,56/1,4.86,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball,long-on,1,1
-69,Faf du Plessis,11.4,Hardik Pandya,India,South Africa,57/1,4.88,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,point,1,1
-70,Quinton de Kock,11.5,Hardik Pandya,India,South Africa,59/1,4.98,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short,sweep,1,2
-71,Quinton de Kock,11.6,Hardik Pandya,India,South Africa,59/1,4.91,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,1,0
-72,Faf du Plessis,12.1,Yuzvendra Chahal,India,South Africa,59/1,4.84,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,straighter delivery,defend,1,0
-73,Faf du Plessis,12.2,Yuzvendra Chahal,India,South Africa,60/1,4.86,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,1
-74,Quinton de Kock,12.3,Yuzvendra Chahal,India,South Africa,60/1,4.8,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,defend,1,0
-75,Quinton de Kock,12.4,Yuzvendra Chahal,India,South Africa,60/1,4.73,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,1,0
-76,Quinton de Kock,12.5,Yuzvendra Chahal,India,South Africa,61/1,4.75,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,sweep,1,1
-77,Faf du Plessis,12.6,Yuzvendra Chahal,India,South Africa,61/1,4.69,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,sweep,1,0
-78,Quinton de Kock,13.1,Hardik Pandya,India,South Africa,65/1,4.93,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,square,1,4
-79,Quinton de Kock,13.1,Hardik Pandya,India,South Africa,68/1,5.16,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short and wide,third man,1,3
-80,Quinton de Kock,13.2,Hardik Pandya,India,South Africa,69/1,5.17,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball on stump,third man,1,1
-81,Faf du Plessis,13.3,Hardik Pandya,India,South Africa,71/1,5.25,Day,Hard,Right_arm_medium,Right_Hand_Batsman,bounce,square,1,2
-82,Faf du Plessis,13.4,Hardik Pandya,India,South Africa,75/1,5.48,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short ball,third man,1,4
-83,Faf du Plessis,13.5,Hardik Pandya,India,South Africa,79/1,5.71,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short,mid-off,1,4
-84,Faf du Plessis,13.6,Hardik Pandya,India,South Africa,79/1,5.64,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,1,0
-85,Quinton de Kock,14.1,Yuzvendra Chahal,India,South Africa,81/1,5.71,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,1,2
-86,Quinton de Kock,14.2,Yuzvendra Chahal,India,South Africa,81/1,5.65,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,1,0
-87,Quinton de Kock,14.3,Yuzvendra Chahal,India,South Africa,82/1,5.65,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-on,1,1
-88,Faf du Plessis,14.4,Yuzvendra Chahal,India,South Africa,82/1,5.59,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,0
-89,Faf du Plessis,14.5,Yuzvendra Chahal,India,South Africa,83/1,5.59,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,1,1
-90,Quinton de Kock,14.6,Yuzvendra Chahal,India,South Africa,83/2,5.53,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,spin,long-on,2,-1
-91,Faf du Plessis,15.1,Kuldeep Yadav,India,South Africa,84/2,5.53,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-on,2,1
-92,Aiden Markram,15.2,Kuldeep Yadav,India,South Africa,84/2,5.47,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,defend,2,0
-93,Aiden Markram,15.3,Kuldeep Yadav,India,South Africa,84/2,5.41,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,defend,2,0
-94,Aiden Markram,15.4,Kuldeep Yadav,India,South Africa,84/2,5.36,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,googly,defend,2,0
-95,Aiden Markram,15.5,Kuldeep Yadav,India,South Africa,84/2,5.3,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,googly,stumped,2,0
-96,Aiden Markram,15.6,Kuldeep Yadav,India,South Africa,85/2,5.31,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,flight delivery on stump,square,2,1
-97,Aiden Markram,16.1,Yuzvendra Chahal,India,South Africa,85/2,5.25,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,square,2,0
-98,Aiden Markram,16.2,Yuzvendra Chahal,India,South Africa,85/2,5.2,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,square,2,0
-99,Aiden Markram,16.3,Yuzvendra Chahal,India,South Africa,85/2,5.15,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,0
-100,Aiden Markram,16.4,Yuzvendra Chahal,India,South Africa,86/2,5.16,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,1
-101,Faf du Plessis,16.5,Yuzvendra Chahal,India,South Africa,86/2,5.1,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,cover,2,0
-102,Faf du Plessis,16.6,Yuzvendra Chahal,India,South Africa,87/2,5.11,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery outside off,cover,2,1
-103,Faf du Plessis,17.1,Kuldeep Yadav,India,South Africa,88/2,5.12,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,flatter delivery outside off,long-off,2,1
-104,Aiden Markram,17.2,Kuldeep Yadav,India,South Africa,88/2,5.07,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,toss up,long-off,2,0
-105,Aiden Markram,17.3,Kuldeep Yadav,India,South Africa,88/2,5.02,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,cover,2,0
-106,Aiden Markram,17.4,Kuldeep Yadav,India,South Africa,89/2,5.03,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-on,2,1
-107,Faf du Plessis,17.5,Kuldeep Yadav,India,South Africa,90/2,5.04,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,slow delivery off stump,cover,2,1
-108,Aiden Markram,17.6,Kuldeep Yadav,India,South Africa,91/2,5.05,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-on,2,1
-109,Aiden Markram,18.1,Yuzvendra Chahal,India,South Africa,91/2,5.0,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,0
-110,Aiden Markram,18.2,Yuzvendra Chahal,India,South Africa,92/2,5.01,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-111,Faf du Plessis,18.3,Yuzvendra Chahal,India,South Africa,93/2,5.02,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short,cover,2,1
-112,Aiden Markram,18.4,Yuzvendra Chahal,India,South Africa,94/2,5.03,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short,long-on,2,1
-113,Faf du Plessis,18.5,Yuzvendra Chahal,India,South Africa,95/2,5.04,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,square,2,1
-114,Aiden Markram,18.6,Yuzvendra Chahal,India,South Africa,95/2,5.0,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,defend,2,0
-115,Faf du Plessis,19.1,Kuldeep Yadav,India,South Africa,96/2,5.0,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,flight delivery off stump,long-off,2,1
-116,Aiden Markram,19.2,Kuldeep Yadav,India,South Africa,97/2,5.01,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,long-on,2,1
-117,Faf du Plessis,19.3,Kuldeep Yadav,India,South Africa,97/2,4.97,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,cover,2,0
-118,Faf du Plessis,19.4,Kuldeep Yadav,India,South Africa,98/2,4.98,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,cover,2,1
-119,Aiden Markram,19.5,Kuldeep Yadav,India,South Africa,99/2,4.99,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,long-on,2,1
-120,Faf du Plessis,19.6,Kuldeep Yadav,India,South Africa,99/2,4.95,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,long-on,2,0
-121,Aiden Markram,20.1,Yuzvendra Chahal,India,South Africa,100/2,4.95,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-122,Faf du Plessis,20.2,Yuzvendra Chahal,India,South Africa,102/2,5.01,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short ball,cover,2,2
-123,Faf du Plessis,20.3,Yuzvendra Chahal,India,South Africa,103/2,5.02,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short ball,long-off,2,1
-124,Aiden Markram,20.4,Yuzvendra Chahal,India,South Africa,103/3,4.98,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short ball,long-off,3,-1
-125,Jean-Paul Duminy,20.5,Yuzvendra Chahal,India,South Africa,103/3,4.94,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,slip,3,0
-126,Jean-Paul Duminy,20.6,Yuzvendra Chahal,India,South Africa,103/3,4.9,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,to the bowler,3,0
-127,Faf du Plessis,21.1,Kuldeep Yadav,India,South Africa,103/3,4.86,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball on stump,to the bowler,3,0
-128,Faf du Plessis,21.2,Kuldeep Yadav,India,South Africa,104/3,4.87,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,to the bowler,3,1
-129,Jean-Paul Duminy,21.3,Kuldeep Yadav,India,South Africa,105/3,4.88,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,sweep,3,1
-130,Faf du Plessis,21.4,Kuldeep Yadav,India,South Africa,105/3,4.84,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,cover,3,0
-131,Faf du Plessis,21.5,Kuldeep Yadav,India,South Africa,105/3,4.8,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,point,3,0
-132,Faf du Plessis,21.6,Kuldeep Yadav,India,South Africa,105/3,4.77,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,cover,3,0
-133,Jean-Paul Duminy,22.1,Kedar Jadhav,India,South Africa,109/3,4.91,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,length ball off stump,cover,3,4
-134,Jean-Paul Duminy,22.2,Kedar Jadhav,India,South Africa,109/3,4.88,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,straighter delivery outside off,cover,3,0
-135,Jean-Paul Duminy,22.3,Kedar Jadhav,India,South Africa,111/3,4.93,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,cover,3,2
-136,Jean-Paul Duminy,22.4,Kedar Jadhav,India,South Africa,111/3,4.89,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,short,cover,3,0
-137,Jean-Paul Duminy,22.5,Kedar Jadhav,India,South Africa,112/3,4.9,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,spin,point,3,1
-138,Faf du Plessis,22.6,Kedar Jadhav,India,South Africa,113/3,4.91,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,spin,point,3,1
-139,Faf du Plessis,23.1,Kuldeep Yadav,India,South Africa,114/3,4.92,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,short,long-off,3,1
-140,Jean-Paul Duminy,23.2,Kuldeep Yadav,India,South Africa,114/3,4.88,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,toss up off stump,long-off,3,0
-141,Jean-Paul Duminy,23.3,Kuldeep Yadav,India,South Africa,114/3,4.85,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,toss up off stump,cover,3,0
-142,Jean-Paul Duminy,23.4,Kuldeep Yadav,India,South Africa,114/3,4.81,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,toss up off stump,cover,3,0
-143,Jean-Paul Duminy,23.5,Kuldeep Yadav,India,South Africa,115/3,4.82,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,short,deep point,3,1
-144,Faf du Plessis,23.6,Kuldeep Yadav,India,South Africa,116/3,4.83,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,short,cover,3,1
-145,Faf du Plessis,24.1,Kedar Jadhav,India,South Africa,116/3,4.8,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,defend,3,0
-146,Faf du Plessis,24.2,Kedar Jadhav,India,South Africa,117/3,4.8,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long leg,3,1
-147,Jean-Paul Duminy,24.3,Kedar Jadhav,India,South Africa,118/3,4.81,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,length ball off stump,cover,3,1
-148,Faf du Plessis,24.4,Kedar Jadhav,India,South Africa,118/3,4.78,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,length ball off stump,cover,3,0
-149,Faf du Plessis,24.5,Kedar Jadhav,India,South Africa,119/3,4.79,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,length ball off stump,cover,3,1
-150,Jean-Paul Duminy,24.6,Kedar Jadhav,India,South Africa,120/3,4.8,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,length ball outside off,cover,3,1
-151,Jean-Paul Duminy,25.1,Kuldeep Yadav,India,South Africa,120/3,4.76,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,off stump,leave,3,0
-152,Jean-Paul Duminy,25.2,Kuldeep Yadav,India,South Africa,120/3,4.73,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,length ball off stump,defend,3,0
-153,Jean-Paul Duminy,25.3,Kuldeep Yadav,India,South Africa,121/3,4.74,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,length ball off stump,long-off,3,1
-154,Faf du Plessis,25.4,Kuldeep Yadav,India,South Africa,122/3,4.75,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball,cover,3,1
-155,Jean-Paul Duminy,25.5,Kuldeep Yadav,India,South Africa,122/4,4.72,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,straighter delivery off stump,cover,4,-1
-156,David Miller,25.6,Kuldeep Yadav,India,South Africa,122/4,4.69,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,straighter delivery off stump,cover,4,0
-157,Faf du Plessis,26.1,Kedar Jadhav,India,South Africa,122/4,4.66,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,cover,4,0
-158,Faf du Plessis,26.2,Kedar Jadhav,India,South Africa,123/4,4.67,Day,Hard,Right_arm_offbreak,Right_Hand_Batsman,slow delivery off stump,cover,4,1
-159,David Miller,26.3,Kedar Jadhav,India,South Africa,123/4,4.64,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,defend,4,0
-160,David Miller,26.4,Kedar Jadhav,India,South Africa,127/4,4.76,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,flight delivery,sweep,4,4
-161,David Miller,26.5,Kedar Jadhav,India,South Africa,127/4,4.73,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,flatter delivery on stump,to the bowler,4,0
-162,David Miller,26.6,Kedar Jadhav,India,South Africa,129/4,4.77,Day,Hard,Right_arm_offbreak,Left_Hand_Batsman,short and wide,deep point,4,2
-163,Faf du Plessis,27.1,Kuldeep Yadav,India,South Africa,131/4,4.82,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,slow delivery off stump,cover,4,2
-164,Faf du Plessis,27.2,Kuldeep Yadav,India,South Africa,132/4,4.82,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,4,1
-165,David Miller,27.3,Kuldeep Yadav,India,South Africa,133/4,4.83,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,long-off,4,1
-166,Faf du Plessis,27.4,Kuldeep Yadav,India,South Africa,134/4,4.84,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,cover,4,1
-167,David Miller,27.5,Kuldeep Yadav,India,South Africa,134/5,4.81,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,slow delivery,cover,5,-1
-168,Chris Morris,27.6,Kuldeep Yadav,India,South Africa,134/5,4.78,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,mid-off,5,0
-169,Faf du Plessis,28.1,Hardik Pandya,India,South Africa,134/5,4.75,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,mid-off,5,0
-170,Faf du Plessis,28.2,Hardik Pandya,India,South Africa,134/5,4.72,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,mid-off,5,0
-171,Faf du Plessis,28.3,Hardik Pandya,India,South Africa,135/5,4.73,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,1
-172,Chris Morris,28.4,Hardik Pandya,India,South Africa,135/5,4.7,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,0
-173,Chris Morris,28.5,Hardik Pandya,India,South Africa,135/5,4.68,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short ball,defend,5,0
-174,Chris Morris,28.6,Hardik Pandya,India,South Africa,135/5,4.65,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short ball,mid-off,5,0
-175,Faf du Plessis,29.1,Yuzvendra Chahal,India,South Africa,136/5,4.66,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,long-on,5,1
-176,Chris Morris,29.2,Yuzvendra Chahal,India,South Africa,137/5,4.67,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long leg,5,1
-177,Faf du Plessis,29.3,Yuzvendra Chahal,India,South Africa,138/5,4.67,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short,cover,5,1
-178,Chris Morris,29.4,Yuzvendra Chahal,India,South Africa,138/5,4.65,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,outside off,cover,5,0
-179,Chris Morris,29.5,Yuzvendra Chahal,India,South Africa,138/5,4.62,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,outside off,cover,5,0
-180,Chris Morris,29.6,Yuzvendra Chahal,India,South Africa,138/5,4.6,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,googly,cover,5,0
-181,Faf du Plessis,30.1,Hardik Pandya,India,South Africa,139/5,4.6,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short,point,5,1
-182,Chris Morris,30.2,Hardik Pandya,India,South Africa,139/5,4.58,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,5,0
-183,Chris Morris,30.3,Hardik Pandya,India,South Africa,139/5,4.55,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,mid-off,5,0
-184,Chris Morris,30.4,Hardik Pandya,India,South Africa,139/5,4.53,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short,mid-off,5,0
-185,Chris Morris,30.5,Hardik Pandya,India,South Africa,140/5,4.54,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length,long-on,5,1
-186,Faf du Plessis,30.6,Hardik Pandya,India,South Africa,141/5,4.54,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,point,5,1
-187,Faf du Plessis,31.1,Jasprit Bumrah,India,South Africa,141/5,4.52,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length,cover,5,0
-188,Faf du Plessis,31.2,Jasprit Bumrah,India,South Africa,142/5,4.53,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,cover,5,1
-189,Chris Morris,31.3,Jasprit Bumrah,India,South Africa,142/5,4.5,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
-190,Chris Morris,31.4,Jasprit Bumrah,India,South Africa,142/5,4.48,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,defend,5,0
-191,Chris Morris,31.5,Jasprit Bumrah,India,South Africa,142/5,4.46,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,defend,5,0
-192,Chris Morris,31.6,Jasprit Bumrah,India,South Africa,142/5,4.43,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,defend,5,0
-193,Faf du Plessis,32.1,Hardik Pandya,India,South Africa,142/5,4.41,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,defend,5,0
-194,Faf du Plessis,32.2,Hardik Pandya,India,South Africa,142/5,4.39,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,defend,5,0
-195,Faf du Plessis,32.3,Hardik Pandya,India,South Africa,143/5,4.4,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,deep square leg,5,1
-196,Chris Morris,32.4,Hardik Pandya,India,South Africa,144/5,4.4,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short ball,cover,5,1
-197,Faf du Plessis,32.5,Hardik Pandya,India,South Africa,148/5,4.5,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,fine leg,5,4
-198,Faf du Plessis,32.6,Hardik Pandya,India,South Africa,149/5,4.51,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep square leg,5,1
-199,Faf du Plessis,33.1,Jasprit Bumrah,India,South Africa,149/5,4.49,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
-200,Faf du Plessis,33.2,Jasprit Bumrah,India,South Africa,149/5,4.47,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,0
-201,Faf du Plessis,33.3,Jasprit Bumrah,India,South Africa,150/5,4.47,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,point,5,1
-202,Chris Morris,33.4,Jasprit Bumrah,India,South Africa,151/5,4.48,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,5,1
-203,Faf du Plessis,33.5,Jasprit Bumrah,India,South Africa,152/5,4.49,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,1
-204,Chris Morris,33.6,Jasprit Bumrah,India,South Africa,156/5,4.58,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short,cover,5,4
-205,Faf du Plessis,34.1,Bhuvneshwar Kumar,India,South Africa,160/5,4.68,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short,leave,5,4
-206,Faf du Plessis,34.2,Bhuvneshwar Kumar,India,South Africa,161/5,4.68,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,leave,5,1
-207,Chris Morris,34.3,Bhuvneshwar Kumar,India,South Africa,165/5,4.78,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,long-on,5,4
-208,Chris Morris,34.4,Bhuvneshwar Kumar,India,South Africa,165/5,4.75,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,defend,5,0
-209,Chris Morris,34.5,Bhuvneshwar Kumar,India,South Africa,166/5,4.76,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,defend,5,1
-210,Faf du Plessis,34.6,Bhuvneshwar Kumar,India,South Africa,166/5,4.74,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,defend,5,0
-211,Chris Morris,35.1,Jasprit Bumrah,India,South Africa,168/5,4.77,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,5,2
-212,Chris Morris,35.2,Jasprit Bumrah,India,South Africa,168/5,4.75,Day,Hard,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,5,0
-213,Chris Morris,35.2,Jasprit Bumrah,India,South Africa,169/5,4.78,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,1
-214,Chris Morris,35.3,Jasprit Bumrah,India,South Africa,170/5,4.78,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,1
-215,Faf du Plessis,35.4,Jasprit Bumrah,India,South Africa,170/5,4.76,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,0
-216,Faf du Plessis,35.5,Jasprit Bumrah,India,South Africa,170/5,4.74,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
-217,Faf du Plessis,35.6,Jasprit Bumrah,India,South Africa,174/5,4.83,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,4
-218,Chris Morris,36.1,Bhuvneshwar Kumar,India,South Africa,178/5,4.92,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,cover,5,4
-219,Chris Morris,36.2,Bhuvneshwar Kumar,India,South Africa,178/5,4.89,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball off stump,mid-off,5,0
-220,Chris Morris,36.3,Bhuvneshwar Kumar,India,South Africa,178/5,4.87,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,to the bowler,5,0
-221,Chris Morris,36.4,Bhuvneshwar Kumar,India,South Africa,179/5,4.88,Day,Hard,Right_arm_medium,Right_Hand_Batsman,yorker,long-on,5,1
-222,Faf du Plessis,36.5,Bhuvneshwar Kumar,India,South Africa,179/5,4.85,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,5,0
-223,Faf du Plessis,36.6,Bhuvneshwar Kumar,India,South Africa,183/5,4.94,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,mid-off,5,4
-224,Chris Morris,37.1,Yuzvendra Chahal,India,South Africa,183/5,4.92,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,to the bowler,5,0
-225,Chris Morris,37.2,Yuzvendra Chahal,India,South Africa,187/5,5.0,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,slow delivery,long-on,5,4
-226,Chris Morris,37.3,Yuzvendra Chahal,India,South Africa,187/5,4.98,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,5,0
-227,Chris Morris,37.4,Yuzvendra Chahal,India,South Africa,187/5,4.96,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,off stump,cover,5,0
-228,Chris Morris,37.5,Yuzvendra Chahal,India,South Africa,188/5,4.96,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short of a length off stump,long-on,5,1
-229,Faf du Plessis,37.6,Yuzvendra Chahal,India,South Africa,188/5,4.94,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,long-on,5,0
-230,Chris Morris,38.1,Kuldeep Yadav,India,South Africa,188/5,4.92,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball outside off,to the bowler,5,0
-231,Chris Morris,38.2,Kuldeep Yadav,India,South Africa,188/5,4.9,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,wrong'un,sweep,5,0
-232,Chris Morris,38.3,Kuldeep Yadav,India,South Africa,189/5,4.9,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,toss up,long-on,5,1
-233,Faf du Plessis,38.4,Kuldeep Yadav,India,South Africa,190/5,4.91,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,toss up outside off,long-off,5,1
-234,Chris Morris,38.5,Kuldeep Yadav,India,South Africa,191/5,4.91,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,5,1
-235,Faf du Plessis,38.6,Kuldeep Yadav,India,South Africa,191/5,4.89,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,5,0
-236,Chris Morris,39.1,Yuzvendra Chahal,India,South Africa,192/5,4.9,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,5,1
-237,Faf du Plessis,39.2,Yuzvendra Chahal,India,South Africa,192/5,4.88,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,5,0
-238,Faf du Plessis,39.3,Yuzvendra Chahal,India,South Africa,192/5,4.86,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short of a length off stump,cover,5,0
-239,Faf du Plessis,39.4,Yuzvendra Chahal,India,South Africa,194/5,4.89,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short,cover,5,2
-240,Faf du Plessis,39.5,Yuzvendra Chahal,India,South Africa,196/5,4.92,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,short ball,square,5,2
-241,Faf du Plessis,39.6,Yuzvendra Chahal,India,South Africa,200/5,5.0,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,sweep,5,4
-242,Chris Morris,40.1,Kuldeep Yadav,India,South Africa,202/5,5.02,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,5,2
-243,Chris Morris,40.2,Kuldeep Yadav,India,South Africa,208/5,5.15,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,outside off,long-off,5,6
-244,Chris Morris,40.3,Kuldeep Yadav,India,South Africa,208/5,5.13,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,square,5,0
-245,Chris Morris,40.4,Kuldeep Yadav,India,South Africa,208/6,5.11,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,sweep,6,-1
-246,Andile Phehlukwayo,40.5,Kuldeep Yadav,India,South Africa,208/6,5.09,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,length ball outside off,cover,6,0
-247,Andile Phehlukwayo,40.6,Kuldeep Yadav,India,South Africa,208/6,5.07,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,length ball,defend,6,0
-248,Faf du Plessis,41.1,Hardik Pandya,India,South Africa,209/6,5.07,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,6,1
-249,Andile Phehlukwayo,41.2,Hardik Pandya,India,South Africa,209/6,5.05,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,cover,6,0
-250,Andile Phehlukwayo,41.3,Hardik Pandya,India,South Africa,209/6,5.03,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball,to the bowler,6,0
-251,Andile Phehlukwayo,41.4,Hardik Pandya,India,South Africa,209/6,5.01,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery,to the bowler,6,0
-252,Andile Phehlukwayo,41.5,Hardik Pandya,India,South Africa,209/6,4.99,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery on stump,to the bowler,6,0
-253,Andile Phehlukwayo,41.6,Hardik Pandya,India,South Africa,210/6,5.0,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,6,1
-254,Andile Phehlukwayo,42.1,Kuldeep Yadav,India,South Africa,210/6,4.98,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,short of a length off stump,cover,6,0
-255,Andile Phehlukwayo,42.2,Kuldeep Yadav,India,South Africa,210/6,4.96,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,cover,6,0
-256,Andile Phehlukwayo,42.3,Kuldeep Yadav,India,South Africa,210/6,4.94,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,length ball off stump,defend,6,0
-257,Andile Phehlukwayo,42.4,Kuldeep Yadav,India,South Africa,211/6,4.94,Day,Hard,Left_arm_chinaman,Left_Hand_Batsman,short and wide,sweep,6,1
-258,Faf du Plessis,42.5,Kuldeep Yadav,India,South Africa,211/6,4.92,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,length ball outside off,cover,6,0
-259,Faf du Plessis,42.6,Kuldeep Yadav,India,South Africa,211/6,4.9,Day,Hard,Left_arm_chinaman,Right_Hand_Batsman,short of a length off stump,cover,6,0
-260,Andile Phehlukwayo,43.1,Yuzvendra Chahal,India,South Africa,211/6,4.88,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,6,0
-261,Andile Phehlukwayo,43.2,Yuzvendra Chahal,India,South Africa,217/6,5.0,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,outside off,square,6,6
-262,Andile Phehlukwayo,43.3,Yuzvendra Chahal,India,South Africa,217/6,4.98,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,outside off,square,6,0
-263,Andile Phehlukwayo,43.4,Yuzvendra Chahal,India,South Africa,217/6,4.96,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,square,6,0
-264,Andile Phehlukwayo,43.5,Yuzvendra Chahal,India,South Africa,218/6,4.97,Day,Hard,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,6,1
-265,Faf du Plessis,43.6,Yuzvendra Chahal,India,South Africa,219/6,4.97,Day,Hard,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,long-on,6,1
-266,Faf du Plessis,44.1,Jasprit Bumrah,India,South Africa,220/6,4.98,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,6,1
-267,Andile Phehlukwayo,44.2,Jasprit Bumrah,India,South Africa,221/6,4.98,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,fine leg,6,1
-268,Faf du Plessis,44.3,Jasprit Bumrah,India,South Africa,221/6,4.96,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,fine leg,6,0
-269,Faf du Plessis,44.4,Jasprit Bumrah,India,South Africa,222/6,4.97,Day,Hard,Right_arm_medium,Right_Hand_Batsman,straighter delivery off stump,cover,6,1
-270,Andile Phehlukwayo,44.5,Jasprit Bumrah,India,South Africa,222/6,4.95,Day,Hard,Right_arm_medium,Left_Hand_Batsman,yorker,cover,6,0
-271,Andile Phehlukwayo,44.6,Jasprit Bumrah,India,South Africa,223/6,4.95,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-off,6,1
-272,Andile Phehlukwayo,45.1,Bhuvneshwar Kumar,India,South Africa,223/6,4.93,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,long-off,6,0
-273,Andile Phehlukwayo,45.2,Bhuvneshwar Kumar,India,South Africa,224/6,4.94,Day,Hard,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,long-off,6,1
-274,Faf du Plessis,45.3,Bhuvneshwar Kumar,India,South Africa,226/6,4.96,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,sweep,6,2
-275,Faf du Plessis,45.4,Bhuvneshwar Kumar,India,South Africa,230/6,5.03,Day,Hard,Right_arm_medium,Right_Hand_Batsman,outside off,point,6,4
-276,Faf du Plessis,45.5,Bhuvneshwar Kumar,India,South Africa,231/6,5.04,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,6,1
-277,Andile Phehlukwayo,45.6,Bhuvneshwar Kumar,India,South Africa,232/6,5.04,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball off stump,long-off,6,1
-278,Andile Phehlukwayo,46.1,Jasprit Bumrah,India,South Africa,233/6,5.04,Day,Hard,Right_arm_medium,Left_Hand_Batsman,length ball,long-off,6,1
-279,Faf du Plessis,46.2,Jasprit Bumrah,India,South Africa,234/6,5.05,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,square,6,1
-280,Andile Phehlukwayo,46.3,Jasprit Bumrah,India,South Africa,235/6,5.05,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,6,1
-281,Faf du Plessis,46.4,Jasprit Bumrah,India,South Africa,236/6,5.05,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball outside off,long-on,6,1
-282,Andile Phehlukwayo,46.5,Jasprit Bumrah,India,South Africa,237/6,5.06,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery outside off,cover,6,1
-283,Faf du Plessis,46.6,Jasprit Bumrah,India,South Africa,237/6,5.04,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,square,6,0
-284,Andile Phehlukwayo,47.1,Bhuvneshwar Kumar,India,South Africa,238/6,5.04,Day,Hard,Right_arm_medium,Left_Hand_Batsman,yorker,cover,6,1
-285,Faf du Plessis,47.2,Bhuvneshwar Kumar,India,South Africa,239/6,5.04,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,cover,6,1
-286,Andile Phehlukwayo,47.3,Bhuvneshwar Kumar,India,South Africa,240/6,5.05,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-off,6,1
-287,Faf du Plessis,47.4,Bhuvneshwar Kumar,India,South Africa,246/6,5.16,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,long-off,6,6
-288,Faf du Plessis,47.5,Bhuvneshwar Kumar,India,South Africa,247/6,5.16,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
-289,Andile Phehlukwayo,47.6,Bhuvneshwar Kumar,India,South Africa,248/6,5.16,Day,Hard,Right_arm_medium,Left_Hand_Batsman,yorker,long-on,6,1
-290,Andile Phehlukwayo,48.1,Jasprit Bumrah,India,South Africa,249/6,5.16,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,6,1
-291,Faf du Plessis,48.2,Jasprit Bumrah,India,South Africa,251/6,5.19,Day,Hard,Right_arm_medium,Right_Hand_Batsman,straighter delivery outside off,cover,6,2
-292,Faf du Plessis,48.3,Jasprit Bumrah,India,South Africa,257/6,5.29,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,cover,6,6
-293,Faf du Plessis,48.4,Jasprit Bumrah,India,South Africa,259/6,5.32,Day,Hard,Right_arm_medium,Right_Hand_Batsman,length ball,long-on,6,2
-294,Faf du Plessis,48.5,Jasprit Bumrah,India,South Africa,260/6,5.32,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
-295,Andile Phehlukwayo,48.6,Jasprit Bumrah,India,South Africa,264/6,5.38,Day,Hard,Right_arm_medium,Left_Hand_Batsman,spin,third man,6,4
-296,Faf du Plessis,49.1,Bhuvneshwar Kumar,India,South Africa,264/6,5.36,Day,Hard,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,6,0
-297,Faf du Plessis,49.2,Bhuvneshwar Kumar,India,South Africa,264/7,5.35,Day,Hard,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,7,-1
-298,Andile Phehlukwayo,49.3,Bhuvneshwar Kumar,India,South Africa,265/7,5.35,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery outside off,long-off,7,1
-299,Kagiso Rabada,49.4,Bhuvneshwar Kumar,India,South Africa,266/7,5.35,Day,Hard,Right_arm_medium,Left_Hand_Batsman,off stump,long-off,7,1
-300,Andile Phehlukwayo,49.5,Bhuvneshwar Kumar,India,South Africa,267/7,5.35,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,cover,7,1
-301,Kagiso Rabada,49.5,Bhuvneshwar Kumar,India,South Africa,268/8,5.37,Day,Hard,Right_arm_medium,Left_Hand_Batsman,slow delivery off stump,to the bowler,8,-1
-302,Andile Phehlukwayo,49.6,Bhuvneshwar Kumar,India,South Africa,269/8,5.38,Day,Hard,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,8,1
+,Unnamed: 0,Batsman_Name,Over,Bowler_Name,Batsman_country,Bowler_country,Host_country,Type_of_Match,Score,Run_rate,Match_time,Type_of_pitch,Type_of_Bowler,Type_of_Batsman,Bowling_area,Batting_area,Wickets,Result
+0,0,Quinton de Kock,0.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,0,0,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
+1,1,Quinton de Kock,0.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,0,0,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
+2,2,Quinton de Kock,0.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,1,2,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,third man,0,1
+3,3,Hashim Amla,0.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,3,4.5,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball on stump,fine leg,0,2
+4,4,Hashim Amla,0.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,3,3.6,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,off side,0,0
+5,5,Hashim Amla,0.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,3,3,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,defend,0,0
+6,6,Quinton de Kock,1.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,3,2.57,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,point,0,0
+7,7,Quinton de Kock,1.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,3,2.25,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length,third man,0,0
+8,8,Quinton de Kock,1.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,3,2,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-off,0,0
+9,9,Quinton de Kock,1.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,7,4.2,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,,0,4
+10,10,Quinton de Kock,1.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,7,3.81,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,on-side,0,0
+11,11,Quinton de Kock,1.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,7,3.5,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,,0,0
+12,12,Hashim Amla,2.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,9,4.15,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,0,2
+13,13,Hashim Amla,2.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,10,4.28,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,fine leg,0,1
+14,14,Quinton de Kock,2.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,10,4,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,off side,0,0
+15,15,Quinton de Kock,2.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,11,4.12,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,third man,0,1
+16,16,Hashim Amla,2.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,11,3.88,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,defend,0,0
+17,17,Hashim Amla,2.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,13,4.33,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,0,2
+18,18,Quinton de Kock,3.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,13,4.1,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,point,0,0
+19,19,Quinton de Kock,3.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,13,3.9,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,,0,0
+20,20,Quinton de Kock,3.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,13,3.71,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,off side,0,0
+21,21,Quinton de Kock,3.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,13,3.54,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,mid-on,0,0
+22,22,Quinton de Kock,3.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,13,3.39,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,straighter delivery outside off,cover,0,0
+23,23,Quinton de Kock,3.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,17,4.25,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,slow delivery,cover,0,4
+24,24,Hashim Amla,4.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,17,4.08,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,third man,0,0
+25,25,Hashim Amla,4.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,18,4.15,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,square,0,1
+26,26,Quinton de Kock,4.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,18,4,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,off side,0,0
+27,27,Quinton de Kock,4.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,18,3.85,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
+28,28,Quinton de Kock,4.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,18,3.72,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,mid-off,0,0
+29,29,Quinton de Kock,4.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,18,3.6,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,0,0
+30,30,Hashim Amla,5.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,18,3.48,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,cover,0,0
+31,31,Hashim Amla,5.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,22,4.12,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,0,4
+32,32,Hashim Amla,5.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,22,4,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,defend,0,0
+33,33,Hashim Amla,5.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,23,4.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,slip,0,1
+34,34,Quinton de Kock,5.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,23,3.94,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,to the bowler,0,0
+35,35,Quinton de Kock,5.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,23,3.83,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball on stump,square,0,0
+36,36,Hashim Amla,6.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,23,3.72,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,0,0
+37,37,Hashim Amla,6.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,26,4.1,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,0,3
+38,38,Quinton de Kock,6.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,26,4,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,,0,0
+39,39,Quinton de Kock,6.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,27,4.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,outside off,point,0,1
+40,40,Hashim Amla,6.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,28,4.09,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,off side,0,1
+41,41,Quinton de Kock,6.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,29,4.14,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,mid-off,0,1
+42,42,Quinton de Kock,7.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,29,4.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,to the bowler,0,0
+43,43,Quinton de Kock,7.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,30,4.09,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball on stump,square,0,1
+44,44,Hashim Amla,7.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,30-Jan,4,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,off stump,leg before wicket,1,-1
+45,45,Faf du Plessis,7.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,30-Jan,3.91,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,inswinger,,1,0
+46,46,Faf du Plessis,7.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,31-Jan,3.95,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,third man,1,1
+47,47,Quinton de Kock,7.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,31-Jan,3.87,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,off side,1,0
+48,48,Faf du Plessis,8.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,31-Jan,3.79,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
+49,49,Faf du Plessis,8.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,31-Jan,3.72,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,1,0
+50,50,Faf du Plessis,8.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,31-Jan,3.64,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,mid-on,1,0
+51,51,Faf du Plessis,8.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,35,4.03,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off stump,mid-off,1,4
+52,52,Faf du Plessis,8.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,39,4.41,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,square,1,4
+53,53,Faf du Plessis,8.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,43,4.77,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off,slip,1,4
+54,54,Quinton de Kock,9.1,Hardik Pandya,South Africa,India,South Africa,ODI,43,4.69,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,mid-on,1,0
+55,55,Quinton de Kock,9.2,Hardik Pandya,South Africa,India,South Africa,ODI,47,5.03,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,outside off,mid-off,1,4
+56,56,Quinton de Kock,9.3,Hardik Pandya,South Africa,India,South Africa,ODI,48,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,deep point,1,1
+57,57,Faf du Plessis,9.4,Hardik Pandya,South Africa,India,South Africa,ODI,48,4.96,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,1,0
+58,58,Faf du Plessis,9.5,Hardik Pandya,South Africa,India,South Africa,ODI,48,4.88,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball on stump,mid-on,1,0
+59,59,Faf du Plessis,9.6,Hardik Pandya,South Africa,India,South Africa,ODI,49,4.9,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,deep point,1,1
+60,60,Faf du Plessis,10.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,49,4.81,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,cover,1,0
+61,61,Faf du Plessis,10.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,50,4.83,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,square,1,1
+62,62,Quinton de Kock,10.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,52,4.95,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,outside off,long leg,1,2
+63,63,Quinton de Kock,10.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,52,4.87,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,straighter delivery outside off,cover,1,0
+64,64,Quinton de Kock,10.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,53,4.89,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,on-side,1,1
+65,65,Faf du Plessis,10.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,53,4.81,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,defend,1,0
+66,66,Quinton de Kock,11.1,Hardik Pandya,South Africa,India,South Africa,ODI,54,4.83,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball on stump,fine leg,1,1
+67,67,Faf du Plessis,11.2,Hardik Pandya,South Africa,India,South Africa,ODI,55,4.85,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,square,1,1
+68,68,Quinton de Kock,11.3,Hardik Pandya,South Africa,India,South Africa,ODI,56,4.86,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,long-on,1,1
+69,69,Faf du Plessis,11.4,Hardik Pandya,South Africa,India,South Africa,ODI,57,4.88,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,point,1,1
+70,70,Quinton de Kock,11.5,Hardik Pandya,South Africa,India,South Africa,ODI,59,4.98,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,sweep,1,2
+71,71,Quinton de Kock,11.6,Hardik Pandya,South Africa,India,South Africa,ODI,59,4.91,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,defend,1,0
+72,72,Faf du Plessis,12.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,59,4.84,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,straighter delivery,fine leg,1,0
+73,73,Faf du Plessis,12.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,60,4.86,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,1
+74,74,Quinton de Kock,12.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,60,4.8,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,defend,1,0
+75,75,Quinton de Kock,12.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,60,4.73,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,1,0
+76,76,Quinton de Kock,12.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,61,4.75,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,sweep,1,1
+77,77,Faf du Plessis,12.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,61,4.69,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,,1,0
+78,78,Quinton de Kock,13.1,Hardik Pandya,South Africa,India,South Africa,ODI,65,4.93,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,square,1,4
+79,79,Quinton de Kock,13.1,Hardik Pandya,South Africa,India,South Africa,ODI,68,5.16,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short and wide,third man,1,3
+80,80,Quinton de Kock,13.2,Hardik Pandya,South Africa,India,South Africa,ODI,69,5.17,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball on stump,off-side,1,1
+81,81,Faf du Plessis,13.3,Hardik Pandya,South Africa,India,South Africa,ODI,71,5.25,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,bounce,square,1,2
+82,82,Faf du Plessis,13.4,Hardik Pandya,South Africa,India,South Africa,ODI,75,5.48,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short ball,third man,1,4
+83,83,Faf du Plessis,13.5,Hardik Pandya,South Africa,India,South Africa,ODI,79,5.71,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,mid-off,1,4
+84,84,Faf du Plessis,13.6,Hardik Pandya,South Africa,India,South Africa,ODI,79,5.64,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,1,0
+85,85,Quinton de Kock,14.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,81,5.71,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,,1,2
+86,86,Quinton de Kock,14.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,81,5.65,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,cover,1,0
+87,87,Quinton de Kock,14.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,82,5.65,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-on,1,1
+88,88,Faf du Plessis,14.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,82,5.59,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,0
+89,89,Faf du Plessis,14.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,83,5.59,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,1,1
+90,90,Quinton de Kock,14.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,83,5.53,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,spin,leg before wicket,2,-1
+91,91,Faf du Plessis,15.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,84,5.53,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,mid-wicket,2,1
+92,92,Aiden Markram,15.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,84,5.47,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,defend,2,0
+93,93,Aiden Markram,15.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,84,5.41,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,slip,2,0
+94,94,Aiden Markram,15.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,84,5.36,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,googly,,2,0
+95,95,Aiden Markram,15.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,84,5.3,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,googly,stumped,2,0
+96,96,Aiden Markram,15.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,85,5.31,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,flight delivery on stump,square,2,1
+97,97,Aiden Markram,16.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,85,5.25,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,,2,0
+98,98,Aiden Markram,16.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,85,5.2,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery off stump,on-side,2,0
+99,99,Aiden Markram,16.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,85,5.15,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,0
+100,100,Aiden Markram,16.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,86,5.16,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,1
+101,101,Faf du Plessis,16.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,86,5.1,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,to the bowler,2,0
+102,102,Faf du Plessis,16.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,87,5.11,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery outside off,cover,2,1
+103,103,Faf du Plessis,17.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,88,5.12,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,2,1
+104,104,Aiden Markram,17.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,88,5.07,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,toss up,on-side,2,0
+105,105,Aiden Markram,17.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,88,5.02,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,cover,2,0
+106,106,Aiden Markram,17.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,89,5.03,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,short,long-on,2,1
+107,107,Faf du Plessis,17.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,90,5.04,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,slow delivery off stump,cover,2,1
+108,108,Aiden Markram,17.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,91,5.05,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-on,2,1
+109,109,Aiden Markram,18.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,91,5,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,2,0
+110,110,Aiden Markram,18.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,92,5.01,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up,long-on,2,1
+111,111,Faf du Plessis,18.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,93,5.02,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,cover,2,1
+112,112,Aiden Markram,18.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,94,5.03,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,long-on,2,1
+113,113,Faf du Plessis,18.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,95,5.04,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,square,2,1
+114,114,Aiden Markram,18.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,95,5,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,defend,2,0
+115,115,Faf du Plessis,19.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,96,5,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,flight delivery off stump,long-off,2,1
+116,116,Aiden Markram,19.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,97,5.01,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,straighter delivery,long-on,2,1
+117,117,Faf du Plessis,19.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,97,4.97,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,flight delivery,cover,2,0
+118,118,Faf du Plessis,19.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,98,4.98,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,,square,2,1
+119,119,Aiden Markram,19.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,99,4.99,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,,long-on,2,1
+120,120,Faf du Plessis,19.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,99,4.95,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,,defend,2,0
+121,121,Aiden Markram,20.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,100,4.95,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
+122,122,Faf du Plessis,20.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,102,5.01,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short ball,cover,2,2
+123,123,Faf du Plessis,20.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,103,5.02,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,long-off,2,1
+124,124,Aiden Markram,20.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,103,4.98,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,leg-side,caught,3,-1
+125,125,Jean-Paul Duminy,20.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,103,4.94,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,slip,3,0
+126,126,Jean-Paul Duminy,20.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,103,4.9,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,short,to the bowler,3,0
+127,127,Faf du Plessis,21.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,103,4.86,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,toss up,to the bowler,3,0
+128,128,Faf du Plessis,21.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,104,4.87,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,mid-wicket,3,1
+129,129,Jean-Paul Duminy,21.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,105,4.88,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,sweep,3,1
+130,130,Faf du Plessis,21.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,105,4.84,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,slow delivery,cover,3,0
+131,131,Faf du Plessis,21.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,105,4.8,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,slow delivery off stump,point,3,0
+132,132,Faf du Plessis,21.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,105,4.77,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,cover,3,0
+133,133,Jean-Paul Duminy,22.1,Kedar Jadhav,South Africa,India,South Africa,ODI,109,4.91,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,flatter delivery,cover,3,4
+134,134,Jean-Paul Duminy,22.2,Kedar Jadhav,South Africa,India,South Africa,ODI,109,4.88,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,straighter delivery outside off,off-side,3,0
+135,135,Jean-Paul Duminy,22.3,Kedar Jadhav,South Africa,India,South Africa,ODI,111,4.93,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,cover,3,2
+136,136,Jean-Paul Duminy,22.4,Kedar Jadhav,South Africa,India,South Africa,ODI,111,4.89,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,short,cover,3,0
+137,137,Jean-Paul Duminy,22.5,Kedar Jadhav,South Africa,India,South Africa,ODI,112,4.9,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,spin,point,3,1
+138,138,Faf du Plessis,22.6,Kedar Jadhav,South Africa,India,South Africa,ODI,113,4.91,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short in length,square,3,1
+139,139,Faf du Plessis,23.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,114,4.92,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,short,long-off,3,1
+140,140,Jean-Paul Duminy,23.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,114,4.88,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,toss up off stump,,3,0
+141,141,Jean-Paul Duminy,23.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,114,4.85,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,straighter delivery,cover,3,0
+142,142,Jean-Paul Duminy,23.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,114,4.81,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,spin,defend,3,0
+143,143,Jean-Paul Duminy,23.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,115,4.82,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,short,deep point,3,1
+144,144,Faf du Plessis,23.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,116,4.83,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,,cover,3,1
+145,145,Faf du Plessis,24.1,Kedar Jadhav,South Africa,India,South Africa,ODI,116,4.8,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,defend,3,0
+146,146,Faf du Plessis,24.2,Kedar Jadhav,South Africa,India,South Africa,ODI,117,4.8,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long leg,3,1
+147,147,Jean-Paul Duminy,24.3,Kedar Jadhav,South Africa,India,South Africa,ODI,118,4.81,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,length ball off stump,cover,3,1
+148,148,Faf du Plessis,24.4,Kedar Jadhav,South Africa,India,South Africa,ODI,118,4.78,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,cover,3,0
+149,149,Faf du Plessis,24.5,Kedar Jadhav,South Africa,India,South Africa,ODI,119,4.79,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,cover,3,1
+150,150,Jean-Paul Duminy,24.6,Kedar Jadhav,South Africa,India,South Africa,ODI,120,4.8,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,length ball outside off,cover,3,1
+151,151,Jean-Paul Duminy,25.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,120,4.76,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,off stump,leave,3,0
+152,152,Jean-Paul Duminy,25.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,120,4.73,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,length ball off stump,defend,3,0
+153,153,Jean-Paul Duminy,25.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,121,4.74,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,toss up off stump,long-off,3,1
+154,154,Faf du Plessis,25.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,122,4.75,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball,cover,3,1
+155,155,Jean-Paul Duminy,25.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,122,4.72,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,straighter delivery off stump,bowled,4,-1
+156,156,David Miller,25.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,122,4.69,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,straighter delivery off stump,defend,4,0
+157,157,Faf du Plessis,26.1,Kedar Jadhav,South Africa,India,South Africa,ODI,122,4.66,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,4,0
+158,158,Faf du Plessis,26.2,Kedar Jadhav,South Africa,India,South Africa,ODI,123,4.67,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,slow delivery off stump,cover,4,1
+159,159,David Miller,26.3,Kedar Jadhav,South Africa,India,South Africa,ODI,123,4.64,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,defend,4,0
+160,160,David Miller,26.4,Kedar Jadhav,South Africa,India,South Africa,ODI,127,4.76,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,flight delivery,sweep,4,4
+161,161,David Miller,26.5,Kedar Jadhav,South Africa,India,South Africa,ODI,127,4.73,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,flatter delivery on stump,to the bowler,4,0
+162,162,David Miller,26.6,Kedar Jadhav,South Africa,India,South Africa,ODI,129,4.77,Day/Night,Grassy/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,short and wide,deep point,4,2
+163,163,Faf du Plessis,27.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,131,4.82,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,slow delivery off stump,cover,4,2
+164,164,Faf du Plessis,27.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,132,4.82,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,4,1
+165,165,David Miller,27.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,133,4.83,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,long-off,4,1
+166,166,Faf du Plessis,27.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,134,4.84,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,cover,4,1
+167,167,David Miller,27.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,134,4.81,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,slow delivery,caught,5,-1
+168,168,Chris Morris,27.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,134,4.78,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,mid-off,5,0
+169,169,Faf du Plessis,28.1,Hardik Pandya,South Africa,India,South Africa,ODI,134,4.75,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off,,5,0
+170,170,Faf du Plessis,28.2,Hardik Pandya,South Africa,India,South Africa,ODI,134,4.72,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,defend,5,0
+171,171,Faf du Plessis,28.3,Hardik Pandya,South Africa,India,South Africa,ODI,135,4.73,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,1
+172,172,Chris Morris,28.4,Hardik Pandya,South Africa,India,South Africa,ODI,135,4.7,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery,point,5,0
+173,173,Chris Morris,28.5,Hardik Pandya,South Africa,India,South Africa,ODI,135,4.68,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short ball,defend,5,0
+174,174,Chris Morris,28.6,Hardik Pandya,South Africa,India,South Africa,ODI,135,4.65,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,5,0
+175,175,Faf du Plessis,29.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,136,4.66,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,long-on,5,1
+176,176,Chris Morris,29.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,137,4.67,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long leg,5,1
+177,177,Faf du Plessis,29.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,138,4.67,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,cover,5,1
+178,178,Chris Morris,29.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,138,4.65,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,outside off,,5,0
+179,179,Chris Morris,29.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,138,4.62,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery off stump,slip,5,0
+180,180,Chris Morris,29.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,138,4.6,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,mid-wicket,5,0
+181,181,Faf du Plessis,30.1,Hardik Pandya,South Africa,India,South Africa,ODI,139,4.6,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,point,5,1
+182,182,Chris Morris,30.2,Hardik Pandya,South Africa,India,South Africa,ODI,139,4.58,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,5,0
+183,183,Chris Morris,30.3,Hardik Pandya,South Africa,India,South Africa,ODI,139,4.55,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,defend,5,0
+184,184,Chris Morris,30.4,Hardik Pandya,South Africa,India,South Africa,ODI,139,4.53,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,on-side,5,0
+185,185,Chris Morris,30.5,Hardik Pandya,South Africa,India,South Africa,ODI,140,4.54,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,long-on,5,1
+186,186,Faf du Plessis,30.6,Hardik Pandya,South Africa,India,South Africa,ODI,141,4.54,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,point,5,1
+187,187,Faf du Plessis,31.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,141,4.52,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,cover,5,0
+188,188,Faf du Plessis,31.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,142,4.53,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,cover,5,1
+189,189,Chris Morris,31.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,142,4.5,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
+190,190,Chris Morris,31.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,142,4.48,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,,5,0
+191,191,Chris Morris,31.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,142,4.46,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,defend,5,0
+192,192,Chris Morris,31.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,142,4.43,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,point,5,0
+193,193,Faf du Plessis,32.1,Hardik Pandya,South Africa,India,South Africa,ODI,142,4.41,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,,5,0
+194,194,Faf du Plessis,32.2,Hardik Pandya,South Africa,India,South Africa,ODI,142,4.39,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,,5,0
+195,195,Faf du Plessis,32.3,Hardik Pandya,South Africa,India,South Africa,ODI,143,4.4,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery,deep square leg,5,1
+196,196,Chris Morris,32.4,Hardik Pandya,South Africa,India,South Africa,ODI,144,4.4,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short ball,cover,5,1
+197,197,Faf du Plessis,32.5,Hardik Pandya,South Africa,India,South Africa,ODI,148,4.5,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,fine leg,5,4
+198,198,Faf du Plessis,32.6,Hardik Pandya,South Africa,India,South Africa,ODI,149,4.51,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep square leg,5,1
+199,199,Faf du Plessis,33.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,149,4.49,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
+200,200,Faf du Plessis,33.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,149,4.47,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,0
+201,201,Faf du Plessis,33.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,150,4.47,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,point,5,1
+202,202,Chris Morris,33.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,151,4.48,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,5,1
+203,203,Faf du Plessis,33.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,152,4.49,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,1
+204,204,Chris Morris,33.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,156,4.58,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,mid-wicket,5,4
+205,205,Faf du Plessis,34.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,160,4.68,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,leave,5,4
+206,206,Faf du Plessis,34.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,161,4.68,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,fine leg,5,1
+207,207,Chris Morris,34.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,165,4.78,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off,long-on,5,4
+208,208,Chris Morris,34.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,165,4.75,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,defend,5,0
+209,209,Chris Morris,34.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,166,4.76,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,mid-wicket,5,1
+210,210,Faf du Plessis,34.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,166,4.74,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,,5,0
+211,211,Chris Morris,35.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,168,4.77,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,5,2
+212,212,Chris Morris,35.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,168,4.75,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,5,0
+213,213,Chris Morris,35.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,169,4.78,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,1
+214,214,Chris Morris,35.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,170,4.78,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,5,1
+215,215,Faf du Plessis,35.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,170,4.76,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,,5,0
+216,216,Faf du Plessis,35.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,170,4.74,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,defend,5,0
+217,217,Faf du Plessis,35.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,174,4.83,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,5,4
+218,218,Chris Morris,36.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,178,4.92,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off,mid-wicket,5,4
+219,219,Chris Morris,36.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,178,4.89,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,mid-off,5,0
+220,220,Chris Morris,36.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,178,4.87,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,to the bowler,5,0
+221,221,Chris Morris,36.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,179,4.88,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,long-on,5,1
+222,222,Faf du Plessis,36.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,179,4.85,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,5,0
+223,223,Faf du Plessis,36.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,183,4.94,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,5,4
+224,224,Chris Morris,37.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,183,4.92,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery on stump,to the bowler,5,0
+225,225,Chris Morris,37.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,187,5,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,slow delivery,long-on,5,4
+226,226,Chris Morris,37.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,187,4.98,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,5,0
+227,227,Chris Morris,37.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,187,4.96,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,off stump,defend,5,0
+228,228,Chris Morris,37.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,188,4.96,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length off stump,long-on,5,1
+229,229,Faf du Plessis,37.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,188,4.94,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,long-on,5,0
+230,230,Chris Morris,38.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,188,4.92,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball outside off,to the bowler,5,0
+231,231,Chris Morris,38.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,188,4.9,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,wrong'un,sweep,5,0
+232,232,Chris Morris,38.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,189,4.9,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,toss up,long-on,5,1
+233,233,Faf du Plessis,38.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,190,4.91,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,toss up outside off,long-off,5,1
+234,234,Chris Morris,38.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,191,4.91,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,5,1
+235,235,Faf du Plessis,38.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,191,4.89,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,defend,5,0
+236,236,Chris Morris,39.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,192,4.9,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,5,1
+237,237,Faf du Plessis,39.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,192,4.88,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,,5,0
+238,238,Faf du Plessis,39.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,192,4.86,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length off stump,on-side,5,0
+239,239,Faf du Plessis,39.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,194,4.89,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,cover,5,2
+240,240,Faf du Plessis,39.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,196,4.92,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short ball,square,5,2
+241,241,Faf du Plessis,39.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,200,5,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,sweep,5,4
+242,242,Chris Morris,40.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,202,5.02,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,long-off,5,2
+243,243,Chris Morris,40.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,208,5.15,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,outside off,long-off,5,6
+244,244,Chris Morris,40.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,208,5.13,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball off stump,square,5,0
+245,245,Chris Morris,40.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,208,5.11,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,fuller delivery,bowled,6,-1
+246,246,Andile Phehlukwayo,40.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,208,5.09,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,length ball outside off,cover,6,0
+247,247,Andile Phehlukwayo,40.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,208,5.07,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,length ball,defend,6,0
+248,248,Faf du Plessis,41.1,Hardik Pandya,South Africa,India,South Africa,ODI,209,5.07,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,6,1
+249,249,Andile Phehlukwayo,41.2,Hardik Pandya,South Africa,India,South Africa,ODI,209,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,cover,6,0
+250,250,Andile Phehlukwayo,41.3,Hardik Pandya,South Africa,India,South Africa,ODI,209,5.03,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,to the bowler,6,0
+251,251,Andile Phehlukwayo,41.4,Hardik Pandya,South Africa,India,South Africa,ODI,209,5.01,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,slow delivery,,6,0
+252,252,Andile Phehlukwayo,41.5,Hardik Pandya,South Africa,India,South Africa,ODI,209,4.99,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,slow delivery on stump,mid-wicket,6,0
+253,253,Andile Phehlukwayo,41.6,Hardik Pandya,South Africa,India,South Africa,ODI,210,5,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,6,1
+254,254,Andile Phehlukwayo,42.1,Kuldeep Yadav,South Africa,India,South Africa,ODI,210,4.98,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,short of a length off stump,cover,6,0
+255,255,Andile Phehlukwayo,42.2,Kuldeep Yadav,South Africa,India,South Africa,ODI,210,4.96,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,fuller delivery,cover,6,0
+256,256,Andile Phehlukwayo,42.3,Kuldeep Yadav,South Africa,India,South Africa,ODI,210,4.94,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,length ball off stump,defend,6,0
+257,257,Andile Phehlukwayo,42.4,Kuldeep Yadav,South Africa,India,South Africa,ODI,211,4.94,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Left_Hand_Batsman,short and wide,sweep,6,1
+258,258,Faf du Plessis,42.5,Kuldeep Yadav,South Africa,India,South Africa,ODI,211,4.92,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,length ball outside off,cover,6,0
+259,259,Faf du Plessis,42.6,Kuldeep Yadav,South Africa,India,South Africa,ODI,211,4.9,Day/Night,Grassy/Cloudy,Left_arm_chinaman,Right_Hand_Batsman,short of a length off stump,cover,6,0
+260,260,Andile Phehlukwayo,43.1,Yuzvendra Chahal,South Africa,India,South Africa,ODI,211,4.88,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,,6,0
+261,261,Andile Phehlukwayo,43.2,Yuzvendra Chahal,South Africa,India,South Africa,ODI,217,5,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,outside off,square,6,6
+262,262,Andile Phehlukwayo,43.3,Yuzvendra Chahal,South Africa,India,South Africa,ODI,217,4.98,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,slow delivery,mid-wicket,6,0
+263,263,Andile Phehlukwayo,43.4,Yuzvendra Chahal,South Africa,India,South Africa,ODI,217,4.96,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,silly point,6,0
+264,264,Andile Phehlukwayo,43.5,Yuzvendra Chahal,South Africa,India,South Africa,ODI,218,4.97,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,6,1
+265,265,Faf du Plessis,43.6,Yuzvendra Chahal,South Africa,India,South Africa,ODI,219,4.97,Day/Night,Grassy/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,long-on,6,1
+266,266,Faf du Plessis,44.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,220,4.98,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,6,1
+267,267,Andile Phehlukwayo,44.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,221,4.98,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,fine leg,6,1
+268,268,Faf du Plessis,44.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,221,4.96,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,off side,6,0
+269,269,Faf du Plessis,44.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,222,4.97,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery off stump,cover,6,1
+270,270,Andile Phehlukwayo,44.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,222,4.95,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,yorker,on-side,6,0
+271,271,Andile Phehlukwayo,44.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,223,4.95,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-off,6,1
+272,272,Andile Phehlukwayo,45.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,223,4.93,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,,6,0
+273,273,Andile Phehlukwayo,45.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,224,4.94,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,long-off,6,1
+274,274,Faf du Plessis,45.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,226,4.96,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,sweep,6,2
+275,275,Faf du Plessis,45.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,230,5.03,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,outside off,point,6,4
+276,276,Faf du Plessis,45.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,231,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,cover,6,1
+277,277,Andile Phehlukwayo,45.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,232,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball off stump,long-off,6,1
+278,278,Andile Phehlukwayo,46.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,233,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,,6,1
+279,279,Faf du Plessis,46.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,234,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,,square,6,1
+280,280,Andile Phehlukwayo,46.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,235,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-on,6,1
+281,281,Faf du Plessis,46.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,236,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,off-side,6,1
+282,282,Andile Phehlukwayo,46.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,237,5.06,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,slow delivery outside off,cover,6,1
+283,283,Faf du Plessis,46.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,237,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,square,6,0
+284,284,Andile Phehlukwayo,47.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,238,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,yorker,cover,6,1
+285,285,Faf du Plessis,47.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,239,5.04,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,cover,6,1
+286,286,Andile Phehlukwayo,47.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,240,5.05,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-off,6,1
+287,287,Faf du Plessis,47.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,246,5.16,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,long-on,6,6
+288,288,Faf du Plessis,47.5,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,247,5.16,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
+289,289,Andile Phehlukwayo,47.6,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,248,5.16,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,yorker,mid-wicket,6,1
+290,290,Andile Phehlukwayo,48.1,Jasprit Bumrah,South Africa,India,South Africa,ODI,249,5.16,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,long-off,6,1
+291,291,Faf du Plessis,48.2,Jasprit Bumrah,South Africa,India,South Africa,ODI,251,5.19,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery outside off,cover,6,2
+292,292,Faf du Plessis,48.3,Jasprit Bumrah,South Africa,India,South Africa,ODI,257,5.29,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball,,6,6
+293,293,Faf du Plessis,48.4,Jasprit Bumrah,South Africa,India,South Africa,ODI,259,5.32,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,,long-on,6,2
+294,294,Faf du Plessis,48.5,Jasprit Bumrah,South Africa,India,South Africa,ODI,260,5.32,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
+295,295,Andile Phehlukwayo,48.6,Jasprit Bumrah,South Africa,India,South Africa,ODI,264,5.38,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,spin,third man,6,4
+296,296,Faf du Plessis,49.1,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,264,5.36,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,6,0
+297,297,Faf du Plessis,49.2,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,264,5.35,Day/Night,Grassy/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,caught,7,-1
+298,298,Andile Phehlukwayo,49.3,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,265,5.35,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,slow delivery outside off,long-off,7,1
+299,299,Kagiso Rabada,49.4,Bhuvneshwar Kumar,South Africa,India,South Africa,ODI,266,5.35,Day/Night,Grassy/Cloudy,Right_arm_medium,Left_Hand_Batsman,off stump,empty,7,1
