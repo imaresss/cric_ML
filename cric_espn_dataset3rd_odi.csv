@@ -1,312 +1,312 @@
-,Unnamed: 0,Batsman_Name,Over,Bowler_Name,Batsman_country,Bowler_country,Host_country,Score,Run_rate,Match_time,Type_of_pitch,Type_of_Bowler,Type_of_Batsman,Bowling_area,Batting_area,Wickets,Result
-0,0,Rohit Sharma,0.1,Kagiso Rabada,,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,defend,0,0
-1,1,Rohit Sharma,0.2,Kagiso Rabada,India,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,0,0
-2,2,Rohit Sharma,0.3,Kagiso Rabada,India,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,0,0
-3,3,Rohit Sharma,0.4,Kagiso Rabada,India,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,point,0,0
-4,4,Rohit Sharma,0.5,Kagiso Rabada,India,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,,0,0
-5,5,Rohit Sharma,0.6,Kagiso Rabada,India,South Africa,South Africa,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,caught,1,-1
-6,6,Shikhar Dhawan,1.1,Lungi Ngidi,India,South Africa,South Africa,4,3.42,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
-7,7,Shikhar Dhawan,1.2,Lungi Ngidi,India,South Africa,South Africa,4,3,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,to the bowler,1,0
-8,8,Shikhar Dhawan,1.3,Lungi Ngidi,India,South Africa,South Africa,4,2.66,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,,1,0
-9,9,Shikhar Dhawan,1.4,Lungi Ngidi,India,South Africa,South Africa,4,2.4,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,mid-off,1,0
-10,10,Shikhar Dhawan,1.5,Lungi Ngidi,India,South Africa,South Africa,4,2.18,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,cover,1,0
-11,11,Shikhar Dhawan,1.6,Lungi Ngidi,India,South Africa,South Africa,4,2,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,bounce,,1,0
-12,12,Virat Kohli,2.1,Kagiso Rabada,India,South Africa,South Africa,4,1.84,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,1,0
-13,13,Virat Kohli,2.2,Kagiso Rabada,India,South Africa,South Africa,4,1.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
-14,14,Virat Kohli,2.3,Kagiso Rabada,India,South Africa,South Africa,4,1.6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,1,0
-15,15,Virat Kohli,2.4,Kagiso Rabada,India,South Africa,South Africa,4,1.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,1,0
-16,16,Virat Kohli,2.5,Kagiso Rabada,India,South Africa,South Africa,4,1.41,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,cover,1,0
-17,17,Virat Kohli,2.6,Kagiso Rabada,India,South Africa,South Africa,8,2.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,fine leg,1,4
-18,18,Shikhar Dhawan,3.1,Lungi Ngidi,India,South Africa,South Africa,12,3.78,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
-19,19,Shikhar Dhawan,3.2,Lungi Ngidi,India,South Africa,South Africa,13,3.9,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,fine leg,1,1
-20,20,Virat Kohli,3.3,Lungi Ngidi,India,South Africa,South Africa,14,4,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,fine leg,1,1
-21,21,Shikhar Dhawan,3.4,Lungi Ngidi,India,South Africa,South Africa,18,4.9,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,slip,1,4
-22,22,Shikhar Dhawan,3.5,Lungi Ngidi,India,South Africa,South Africa,18,4.69,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,defend,1,0
-23,23,Shikhar Dhawan,3.6,Lungi Ngidi,India,South Africa,South Africa,18,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,length ball on stump,mid-wicket,1,0
-24,24,Virat Kohli,4.1,Kagiso Rabada,India,South Africa,South Africa,18,4.32,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,defend,1,0
-25,25,Virat Kohli,4.2,Kagiso Rabada,India,South Africa,South Africa,18,4.15,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,,1,0
-26,26,Virat Kohli,4.2,Kagiso Rabada,India,South Africa,South Africa,19,4.38,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,,1,1
-27,27,Virat Kohli,4.3,Kagiso Rabada,India,South Africa,South Africa,19,4.22,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,1,0
-28,28,Virat Kohli,4.4,Kagiso Rabada,India,South Africa,South Africa,23,4.92,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,mid-wicket,1,4
-29,29,Virat Kohli,4.5,Kagiso Rabada,India,South Africa,South Africa,23,4.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,,1,0
-30,30,Virat Kohli,4.6,Kagiso Rabada,India,South Africa,South Africa,23,4.6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
-31,31,Shikhar Dhawan,5.1,Lungi Ngidi,India,South Africa,South Africa,24,4.64,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,third man,1,1
-32,32,Virat Kohli,5.2,Lungi Ngidi,India,South Africa,South Africa,24,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,inswinger,,1,0
-33,33,Virat Kohli,5.3,Lungi Ngidi,India,South Africa,South Africa,28,5.09,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,square,1,4
-34,34,Virat Kohli,5.4,Lungi Ngidi,India,South Africa,South Africa,28,4.94,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
-35,35,Virat Kohli,5.5,Lungi Ngidi,India,South Africa,South Africa,28,4.8,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,defend,1,0
-36,36,Virat Kohli,5.6,Lungi Ngidi,India,South Africa,South Africa,28,4.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,bounce,defend,1,0
-37,37,Shikhar Dhawan,6.1,Kagiso Rabada,India,South Africa,South Africa,28,4.54,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,square,1,0
-38,38,Shikhar Dhawan,6.2,Kagiso Rabada,India,South Africa,South Africa,28,4.42,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,point,1,0
-39,39,Shikhar Dhawan,6.3,Kagiso Rabada,India,South Africa,South Africa,29,4.46,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,third man,1,1
-40,40,Virat Kohli,6.4,Kagiso Rabada,India,South Africa,South Africa,29,4.35,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,cover,1,0
-41,41,Virat Kohli,6.5,Kagiso Rabada,India,South Africa,South Africa,29,4.24,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,,1,0
-42,42,Virat Kohli,6.6,Kagiso Rabada,India,South Africa,South Africa,29,4.14,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,defend,1,0
-43,43,Shikhar Dhawan,7.1,Lungi Ngidi,India,South Africa,South Africa,30,4.18,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,third man,1,1
-44,44,Virat Kohli,7.2,Lungi Ngidi,India,South Africa,South Africa,30,4.09,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,on-side,1,0
-45,45,Virat Kohli,7.3,Lungi Ngidi,India,South Africa,South Africa,34,4.53,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,outside off,cover,1,4
-46,46,Virat Kohli,7.4,Lungi Ngidi,India,South Africa,South Africa,35,4.56,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,gully,1,1
-47,47,Shikhar Dhawan,7.5,Lungi Ngidi,India,South Africa,South Africa,35,4.46,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,length ball outside off,off side,1,0
-48,48,Shikhar Dhawan,7.6,Lungi Ngidi,India,South Africa,South Africa,39,4.87,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
-49,49,Virat Kohli,8.1,Kagiso Rabada,India,South Africa,South Africa,39,4.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,1,0
-50,50,Virat Kohli,8.2,Kagiso Rabada,India,South Africa,South Africa,39,4.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,1,0
-51,51,Virat Kohli,8.3,Kagiso Rabada,India,South Africa,South Africa,39,4.58,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,,1,0
-52,52,Virat Kohli,8.4,Kagiso Rabada,India,South Africa,South Africa,39,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,yorker,,1,0
-53,53,Virat Kohli,8.5,Kagiso Rabada,India,South Africa,South Africa,40,4.52,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,bounce,square,1,1
-54,54,Shikhar Dhawan,8.6,Kagiso Rabada,India,South Africa,South Africa,44,4.88,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,outside off,cover,1,4
-55,55,Virat Kohli,9.1,Chris Morris,India,South Africa,South Africa,44,4.8,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
-56,56,Virat Kohli,9.2,Chris Morris,India,South Africa,South Africa,44,4.71,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,point,1,0
-57,57,Virat Kohli,9.3,Chris Morris,India,South Africa,South Africa,46,4.84,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,2
-58,58,Virat Kohli,9.4,Chris Morris,India,South Africa,South Africa,46,4.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,,1,0
-59,59,Virat Kohli,9.5,Chris Morris,India,South Africa,South Africa,46,4.67,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,1,0
-60,60,Virat Kohli,9.6,Chris Morris,India,South Africa,South Africa,50,5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,fine leg,1,4
-61,61,Shikhar Dhawan,10.1,Andile Phehlukwayo,India,South Africa,South Africa,51,5.01,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,deep square leg,1,1
-62,62,Virat Kohli,10.2,Andile Phehlukwayo,India,South Africa,South Africa,51,4.93,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,1,0
-63,63,Virat Kohli,10.3,Andile Phehlukwayo,India,South Africa,South Africa,52,4.95,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,1,1
-64,64,Shikhar Dhawan,10.4,Andile Phehlukwayo,India,South Africa,South Africa,52,4.87,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,mid-wicket,1,0
-65,65,Shikhar Dhawan,10.5,Andile Phehlukwayo,India,South Africa,South Africa,52,4.8,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,cover,1,0
-66,66,Shikhar Dhawan,10.6,Andile Phehlukwayo,India,South Africa,South Africa,52,4.72,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,cover,1,0
-67,67,Virat Kohli,11.1,Chris Morris,India,South Africa,South Africa,54,4.83,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,2
-68,68,Virat Kohli,11.2,Chris Morris,India,South Africa,South Africa,54,4.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,,1,0
-69,69,Virat Kohli,11.3,Chris Morris,India,South Africa,South Africa,55,4.78,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,1,1
-70,70,Shikhar Dhawan,11.4,Chris Morris,India,South Africa,South Africa,55,4.71,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,point,1,0
-71,71,Shikhar Dhawan,11.5,Chris Morris,India,South Africa,South Africa,56,4.73,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,square,1,1
-72,72,Virat Kohli,11.6,Chris Morris,India,South Africa,South Africa,57,4.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,1,1
-73,73,Virat Kohli,12.1,Andile Phehlukwayo,India,South Africa,South Africa,58,4.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,third man,1,1
-74,74,Shikhar Dhawan,12.1,Andile Phehlukwayo,India,South Africa,South Africa,60,4.93,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,,1,2
-75,75,Virat Kohli,12.2,Andile Phehlukwayo,India,South Africa,South Africa,60,4.86,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,mid-wicket,1,0
-76,76,Virat Kohli,12.3,Andile Phehlukwayo,India,South Africa,South Africa,61,4.88,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,third man,1,1
-77,77,Shikhar Dhawan,12.4,Andile Phehlukwayo,India,South Africa,South Africa,63,4.97,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,deep mid-wicket,1,2
-78,78,Shikhar Dhawan,12.5,Andile Phehlukwayo,India,South Africa,South Africa,63,4.9,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,point,1,0
-79,79,Shikhar Dhawan,12.6,Andile Phehlukwayo,India,South Africa,South Africa,67,5.15,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,fine leg,1,4
-80,80,Virat Kohli,13.1,Chris Morris,India,South Africa,South Africa,67,5.08,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
-81,81,Virat Kohli,13.2,Chris Morris,India,South Africa,South Africa,68,5.1,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,,square,1,1
-82,82,Shikhar Dhawan,13.3,Chris Morris,India,South Africa,South Africa,68,5.03,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,bounce,leave,1,0
-83,83,Shikhar Dhawan,13.4,Chris Morris,India,South Africa,South Africa,68,4.97,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,,1,0
-84,84,Shikhar Dhawan,13.5,Chris Morris,India,South Africa,South Africa,68,4.91,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,yorker,mid-on,1,0
-85,85,Shikhar Dhawan,13.6,Chris Morris,India,South Africa,South Africa,69,4.92,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,third man,1,1
-86,86,Shikhar Dhawan,14.1,Andile Phehlukwayo,India,South Africa,South Africa,71,5.01,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,point,1,2
-87,87,Shikhar Dhawan,14.2,Andile Phehlukwayo,India,South Africa,South Africa,75,5.23,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,mid-on,1,4
-88,88,Shikhar Dhawan,14.3,Andile Phehlukwayo,India,South Africa,South Africa,76,5.24,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,third man,1,1
-89,89,Virat Kohli,14.4,Andile Phehlukwayo,India,South Africa,South Africa,77,5.25,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,deep point,1,1
-90,90,Shikhar Dhawan,14.5,Andile Phehlukwayo,India,South Africa,South Africa,78,5.25,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short ball,deep square leg,1,1
-91,91,Virat Kohli,14.6,Andile Phehlukwayo,India,South Africa,South Africa,79,5.26,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,1
-92,92,Virat Kohli,15.1,Chris Morris,India,South Africa,South Africa,80,5.27,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-wicket,1,1
-93,93,Shikhar Dhawan,15.2,Chris Morris,India,South Africa,South Africa,81,5.28,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short and wide,deep point,1,1
-94,94,Virat Kohli,15.3,Chris Morris,India,South Africa,South Africa,82,5.29,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,deep point,1,1
-95,95,Shikhar Dhawan,15.4,Chris Morris,India,South Africa,South Africa,82,5.23,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,gully,1,0
-96,96,Shikhar Dhawan,15.5,Chris Morris,India,South Africa,South Africa,86,5.43,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,square,1,4
-97,97,Shikhar Dhawan,15.6,Chris Morris,India,South Africa,South Africa,87,5.43,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,deep square leg,1,1
-98,98,Shikhar Dhawan,16.1,Imran Tahir,India,South Africa,South Africa,87,5.38,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,,1,0
-99,99,Shikhar Dhawan,16.2,Imran Tahir,India,South Africa,South Africa,91,5.57,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,square,1,4
-100,100,Shikhar Dhawan,16.3,Imran Tahir,India,South Africa,South Africa,93,5.63,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,1,2
-101,101,Shikhar Dhawan,16.4,Imran Tahir,India,South Africa,South Africa,93,5.58,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,short of a length off stump,third man,1,0
-102,102,Shikhar Dhawan,16.5,Imran Tahir,India,South Africa,South Africa,97,5.76,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,mid-wicket,1,4
-103,103,Shikhar Dhawan,16.6,Imran Tahir,India,South Africa,South Africa,97,5.7,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,short of a length off stump,off side,1,0
-104,104,Virat Kohli,17.1,Lungi Ngidi,India,South Africa,South Africa,99,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,mid-off,1,2
-105,105,Virat Kohli,17.2,Lungi Ngidi,India,South Africa,South Africa,100,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,third man,1,1
-106,106,Shikhar Dhawan,17.2,Lungi Ngidi,India,South Africa,South Africa,101,5.82,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,bounce,,1,1
-107,107,Shikhar Dhawan,17.3,Lungi Ngidi,India,South Africa,South Africa,102,5.82,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short ball,fine leg,1,1
-108,108,Virat Kohli,17.4,Lungi Ngidi,India,South Africa,South Africa,102,5.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,cover,1,0
-109,109,Virat Kohli,17.5,Lungi Ngidi,India,South Africa,South Africa,103,5.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery outside off,cover,1,1
-110,110,Shikhar Dhawan,17.5,Lungi Ngidi,India,South Africa,South Africa,104,5.83,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,,slip,1,1
-111,111,Shikhar Dhawan,17.6,Lungi Ngidi,India,South Africa,South Africa,105,5.83,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,third man,1,1
-112,112,Shikhar Dhawan,18.1,Imran Tahir,India,South Africa,South Africa,106,5.83,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up on stump,square,1,1
-113,113,Virat Kohli,18.2,Imran Tahir,India,South Africa,South Africa,107,5.83,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,mid-off,1,1
-114,114,Shikhar Dhawan,18.3,Imran Tahir,India,South Africa,South Africa,107,5.78,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball outside off,point,1,0
-115,115,Shikhar Dhawan,18.4,Imran Tahir,India,South Africa,South Africa,108,5.78,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,1,1
-116,116,Virat Kohli,18.5,Imran Tahir,India,South Africa,South Africa,108,5.73,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,0
-117,117,Virat Kohli,18.6,Imran Tahir,India,South Africa,South Africa,108,5.68,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,defend,1,0
-118,118,Shikhar Dhawan,19.1,Lungi Ngidi,India,South Africa,South Africa,112,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,off side,1,4
-119,119,Shikhar Dhawan,19.2,Lungi Ngidi,India,South Africa,South Africa,113,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short,fine leg,1,1
-120,120,Virat Kohli,19.3,Lungi Ngidi,India,South Africa,South Africa,114,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length on stump,fine leg,1,1
-121,121,Shikhar Dhawan,19.4,Lungi Ngidi,India,South Africa,South Africa,115,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length on stump,fine leg,1,1
-122,122,Virat Kohli,19.5,Lungi Ngidi,India,South Africa,South Africa,117,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,third man,1,2
-123,123,Virat Kohli,19.6,Lungi Ngidi,India,South Africa,South Africa,118,5.9,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,fine leg,1,1
-124,124,Virat Kohli,20.1,Imran Tahir,India,South Africa,South Africa,119,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length,long-on,1,1
-125,125,Shikhar Dhawan,20.2,Imran Tahir,India,South Africa,South Africa,120,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,off stump,long-off,1,1
-126,126,Virat Kohli,20.3,Imran Tahir,India,South Africa,South Africa,121,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,1
-127,127,Shikhar Dhawan,20.4,Imran Tahir,India,South Africa,South Africa,125,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball outside off,deep mid-wicket,1,4
-128,128,Shikhar Dhawan,20.5,Imran Tahir,India,South Africa,South Africa,126,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-off,1,1
-129,129,Virat Kohli,20.6,Imran Tahir,India,South Africa,South Africa,127,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up outside off,long-off,1,1
-130,130,Virat Kohli,21.1,Jean-Paul Duminy,India,South Africa,South Africa,128,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-on,1,1
-131,131,Shikhar Dhawan,21.2,Jean-Paul Duminy,India,South Africa,South Africa,129,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,long-off,1,1
-132,132,Virat Kohli,21.3,Jean-Paul Duminy,India,South Africa,South Africa,129,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,,1,0
-133,133,Virat Kohli,21.4,Jean-Paul Duminy,India,South Africa,South Africa,129,5.95,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,,1,0
-134,134,Virat Kohli,21.5,Jean-Paul Duminy,India,South Africa,South Africa,132,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short and wide,sweep,1,3
-135,135,Shikhar Dhawan,21.6,Jean-Paul Duminy,India,South Africa,South Africa,132,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,toss up,mid-wicket,1,0
-136,136,Virat Kohli,22.1,Imran Tahir,India,South Africa,South Africa,136,6.13,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,1,4
-137,137,Virat Kohli,22.2,Imran Tahir,India,South Africa,South Africa,137,6.13,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,third man,1,1
-138,138,Shikhar Dhawan,22.3,Imran Tahir,India,South Africa,South Africa,137,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,to the bowler,1,0
-139,139,Shikhar Dhawan,22.4,Imran Tahir,India,South Africa,South Africa,138,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-off,1,1
-140,140,Virat Kohli,22.5,Imran Tahir,India,South Africa,South Africa,139,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,off stump,long-off,1,1
-141,141,Shikhar Dhawan,22.6,Imran Tahir,India,South Africa,South Africa,140,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,googly,long-off,1,1
-142,142,Shikhar Dhawan,23.1,Jean-Paul Duminy,India,South Africa,South Africa,140,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,slow delivery off stump,caught,2,-1
-143,143,Ajinkya Rahane,23.2,Jean-Paul Duminy,India,South Africa,South Africa,141,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball,long-on,2,1
-144,144,Virat Kohli,23.3,Jean-Paul Duminy,India,South Africa,South Africa,142,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up,long-on,2,1
-145,145,Ajinkya Rahane,23.4,Jean-Paul Duminy,India,South Africa,South Africa,143,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball,mid-wicket,2,1
-146,146,Virat Kohli,23.5,Jean-Paul Duminy,India,South Africa,South Africa,144,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,long-on,2,1
-147,147,Ajinkya Rahane,23.6,Jean-Paul Duminy,India,South Africa,South Africa,145,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-148,148,Ajinkya Rahane,24.1,Imran Tahir,India,South Africa,South Africa,146,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball,,2,1
-149,149,Virat Kohli,24.2,Imran Tahir,India,South Africa,South Africa,147,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,cover,2,1
-150,150,Ajinkya Rahane,24.3,Imran Tahir,India,South Africa,South Africa,148,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,outside off,,2,1
-151,151,Virat Kohli,24.4,Imran Tahir,India,South Africa,South Africa,148,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,cover,2,0
-152,152,Virat Kohli,24.5,Imran Tahir,India,South Africa,South Africa,149,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,,2,1
-153,153,Ajinkya Rahane,24.6,Imran Tahir,India,South Africa,South Africa,150,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-154,154,Ajinkya Rahane,25.1,Jean-Paul Duminy,India,South Africa,South Africa,151,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,cover,2,1
-155,155,Virat Kohli,25.2,Jean-Paul Duminy,India,South Africa,South Africa,152,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,cover,2,1
-156,156,Ajinkya Rahane,25.3,Jean-Paul Duminy,India,South Africa,South Africa,153,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball off stump,,2,1
-157,157,Virat Kohli,25.4,Jean-Paul Duminy,India,South Africa,South Africa,153,5.96,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,2,0
-158,158,Virat Kohli,25.5,Jean-Paul Duminy,India,South Africa,South Africa,153,5.92,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,,2,0
-159,159,Virat Kohli,25.6,Jean-Paul Duminy,India,South Africa,South Africa,154,5.92,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery,cover,2,1
-160,160,Virat Kohli,26.1,Imran Tahir,India,South Africa,South Africa,154,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length,,2,0
-161,161,Virat Kohli,26.2,Imran Tahir,India,South Africa,South Africa,155,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,outside off,cover,2,1
-162,162,Ajinkya Rahane,26.3,Imran Tahir,India,South Africa,South Africa,156,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,long-off,2,1
-163,163,Virat Kohli,26.4,Imran Tahir,India,South Africa,South Africa,157,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-164,164,Ajinkya Rahane,26.5,Imran Tahir,India,South Africa,South Africa,158,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
-165,165,Virat Kohli,26.6,Imran Tahir,India,South Africa,South Africa,158,5.85,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,0
-166,166,Ajinkya Rahane,27.1,Jean-Paul Duminy,India,South Africa,South Africa,159,5.85,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,defend,2,1
-167,167,Virat Kohli,27.2,Jean-Paul Duminy,India,South Africa,South Africa,160,5.85,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,deep mid-wicket,2,1
-168,168,Ajinkya Rahane,27.3,Jean-Paul Duminy,India,South Africa,South Africa,160,5.81,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,point,2,0
-169,169,Ajinkya Rahane,27.4,Jean-Paul Duminy,India,South Africa,South Africa,160,5.78,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery off stump,caught,3,-1
-170,170,Virat Kohli,27.5,Jean-Paul Duminy,India,South Africa,South Africa,161,5.78,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,deep mid-wicket,3,1
-171,171,Hardik Pandya,27.6,Jean-Paul Duminy,India,South Africa,South Africa,161,5.75,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,defend,3,0
-172,172,Virat Kohli,28.1,Kagiso Rabada,India,South Africa,South Africa,161,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,off side,3,0
-173,173,Virat Kohli,28.2,Kagiso Rabada,India,South Africa,South Africa,162,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,deep mid-wicket,3,1
-174,174,Hardik Pandya,28.3,Kagiso Rabada,India,South Africa,South Africa,162,5.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,3,0
-175,175,Hardik Pandya,28.4,Kagiso Rabada,India,South Africa,South Africa,163,5.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,cover,3,1
-176,176,Virat Kohli,28.5,Kagiso Rabada,India,South Africa,South Africa,163,5.65,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,off side,3,0
-177,177,Virat Kohli,28.6,Kagiso Rabada,India,South Africa,South Africa,164,5.65,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,fine leg,3,1
-178,178,Virat Kohli,29.1,Jean-Paul Duminy,India,South Africa,South Africa,164,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,3,0
-179,179,Virat Kohli,29.2,Jean-Paul Duminy,India,South Africa,South Africa,165,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,,3,1
-180,180,Hardik Pandya,29.3,Jean-Paul Duminy,India,South Africa,South Africa,166,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,mid-off,3,1
-181,181,Virat Kohli,29.4,Jean-Paul Duminy,India,South Africa,South Africa,167,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,deep mid-wicket,3,1
-182,182,Hardik Pandya,29.5,Jean-Paul Duminy,India,South Africa,South Africa,169,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length,sweep,3,2
-183,183,Hardik Pandya,29.6,Jean-Paul Duminy,India,South Africa,South Africa,170,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery off stump,mid-off,3,1
-184,184,Hardik Pandya,30.1,Kagiso Rabada,India,South Africa,South Africa,171,5.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball on stump,deep square leg,3,1
-185,185,Virat Kohli,30.2,Kagiso Rabada,India,South Africa,South Africa,173,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,square,3,2
-186,186,Virat Kohli,30.3,Kagiso Rabada,India,South Africa,South Africa,173,5.67,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,,3,0
-187,187,Virat Kohli,30.4,Kagiso Rabada,India,South Africa,South Africa,175,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,sweep,3,2
-188,188,Virat Kohli,30.5,Kagiso Rabada,India,South Africa,South Africa,176,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,outside off,cover,3,1
-189,189,Hardik Pandya,30.6,Kagiso Rabada,India,South Africa,South Africa,176,5.67,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,defend,3,0
-190,190,Virat Kohli,31.1,Jean-Paul Duminy,India,South Africa,South Africa,178,5.71,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length outside off,third man,3,2
-191,191,Virat Kohli,31.2,Jean-Paul Duminy,India,South Africa,South Africa,179,5.71,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,slow delivery,mid-off,3,1
-192,192,Hardik Pandya,31.3,Jean-Paul Duminy,India,South Africa,South Africa,185,5.87,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery,long-off,3,6
-193,193,Hardik Pandya,31.4,Jean-Paul Duminy,India,South Africa,South Africa,185,5.84,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,to the bowler,3,0
-194,194,Hardik Pandya,31.5,Jean-Paul Duminy,India,South Africa,South Africa,186,5.84,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,third man,3,1
-195,195,Virat Kohli,31.6,Jean-Paul Duminy,India,South Africa,South Africa,186,5.81,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,,3,0
-196,196,Hardik Pandya,32.1,Chris Morris,India,South Africa,South Africa,187,5.81,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,cover,3,1
-197,197,Virat Kohli,32.2,Chris Morris,India,South Africa,South Africa,188,5.81,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,3,1
-198,198,Hardik Pandya,32.3,Chris Morris,India,South Africa,South Africa,188,5.78,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,3,0
-199,199,Hardik Pandya,32.4,Chris Morris,India,South Africa,South Africa,188,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery,mid-wicket,3,0
-200,200,Hardik Pandya,32.5,Chris Morris,India,South Africa,South Africa,188,5.72,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,caught,4,-1
-201,201,MS Dhoni,32.6,Chris Morris,India,South Africa,South Africa,188,5.69,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,,4,0
-202,202,Virat Kohli,33.1,Jean-Paul Duminy,India,South Africa,South Africa,188,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,leg-side,,4,0
-203,203,Virat Kohli,33.2,Jean-Paul Duminy,India,South Africa,South Africa,189,5.67,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,long-on,4,1
-204,204,MS Dhoni,33.3,Jean-Paul Duminy,India,South Africa,South Africa,189,5.64,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,to the bowler,4,0
-205,205,MS Dhoni,33.4,Jean-Paul Duminy,India,South Africa,South Africa,189,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,slow delivery outside off,dot,4,0
-206,206,MS Dhoni,33.5,Jean-Paul Duminy,India,South Africa,South Africa,190,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short and wide,cover,4,1
-207,207,Virat Kohli,33.6,Jean-Paul Duminy,India,South Africa,South Africa,191,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,mid-wicket,4,1
-208,208,Virat Kohli,34.1,Chris Morris,India,South Africa,South Africa,191,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,,4,0
-209,209,Virat Kohli,34.2,Chris Morris,India,South Africa,South Africa,192,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,third man,4,1
-210,210,MS Dhoni,34.3,Chris Morris,India,South Africa,South Africa,193,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
-211,211,Virat Kohli,34.4,Chris Morris,India,South Africa,South Africa,193,5.56,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,mid-wicket,4,0
-212,212,Virat Kohli,34.5,Chris Morris,India,South Africa,South Africa,193,5.54,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,,4,0
-213,213,Virat Kohli,34.6,Chris Morris,India,South Africa,South Africa,194,5.54,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,third man,4,1
-214,214,Virat Kohli,35.1,Jean-Paul Duminy,India,South Africa,South Africa,195,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,to the bowler,4,1
-215,215,MS Dhoni,35.2,Jean-Paul Duminy,India,South Africa,South Africa,196,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,long-on,4,1
-216,216,Virat Kohli,35.3,Jean-Paul Duminy,India,South Africa,South Africa,197,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-off,4,1
-217,217,MS Dhoni,35.4,Jean-Paul Duminy,India,South Africa,South Africa,197,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,4,0
-218,218,MS Dhoni,35.5,Jean-Paul Duminy,India,South Africa,South Africa,198,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,mid-on,4,1
-219,219,Virat Kohli,35.6,Jean-Paul Duminy,India,South Africa,South Africa,200,5.55,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,square,4,2
-220,220,MS Dhoni,36.1,Chris Morris,India,South Africa,South Africa,200,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,4,0
-221,221,MS Dhoni,36.2,Chris Morris,India,South Africa,South Africa,200,5.5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,leave,4,0
-222,222,MS Dhoni,36.3,Chris Morris,India,South Africa,South Africa,200,5.47,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,leave,4,0
-223,223,MS Dhoni,36.4,Chris Morris,India,South Africa,South Africa,201,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
-224,224,Virat Kohli,36.5,Chris Morris,India,South Africa,South Africa,202,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,third man,4,1
-225,225,MS Dhoni,36.6,Chris Morris,India,South Africa,South Africa,202,5.45,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,4,0
-226,226,Virat Kohli,37.1,Jean-Paul Duminy,India,South Africa,South Africa,206,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,cover,4,4
-227,227,Virat Kohli,37.2,Jean-Paul Duminy,India,South Africa,South Africa,207,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery outside off,long-off,4,1
-228,228,MS Dhoni,37.3,Jean-Paul Duminy,India,South Africa,South Africa,208,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,square,4,1
-229,229,Virat Kohli,37.4,Jean-Paul Duminy,India,South Africa,South Africa,209,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,long-on,4,1
-230,230,MS Dhoni,37.5,Jean-Paul Duminy,India,South Africa,South Africa,209,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,mid-wicket,4,0
-231,231,MS Dhoni,37.6,Jean-Paul Duminy,India,South Africa,South Africa,209,5.5,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,4,0
-232,232,Virat Kohli,38.1,Imran Tahir,India,South Africa,South Africa,209,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,point,4,0
-233,233,Virat Kohli,38.2,Imran Tahir,India,South Africa,South Africa,210,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short outside off,third man,4,1
-234,234,MS Dhoni,38.3,Imran Tahir,India,South Africa,South Africa,211,5.48,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,fine leg,4,1
-235,235,Virat Kohli,38.4,Imran Tahir,India,South Africa,South Africa,212,5.48,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up on stump,long-on,4,1
-236,236,MS Dhoni,38.5,Imran Tahir,India,South Africa,South Africa,212,5.45,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up outside off,cover,4,0
-237,237,MS Dhoni,38.6,Imran Tahir,India,South Africa,South Africa,212,5.43,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,,dot,4,0
-238,238,Virat Kohli,39.1,Jean-Paul Duminy,India,South Africa,South Africa,214,5.46,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short,fine leg,4,2
-239,239,Virat Kohli,39.2,Jean-Paul Duminy,India,South Africa,South Africa,216,5.49,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery outside off,cover,4,2
-240,240,Virat Kohli,39.3,Jean-Paul Duminy,India,South Africa,South Africa,220,5.56,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,4,4
-241,241,Virat Kohli,39.4,Jean-Paul Duminy,India,South Africa,South Africa,220,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,4,0
-242,242,Virat Kohli,39.5,Jean-Paul Duminy,India,South Africa,South Africa,221,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short,,4,1
-243,243,MS Dhoni,39.6,Jean-Paul Duminy,India,South Africa,South Africa,223,5.57,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,square,4,2
-244,244,Virat Kohli,40.1,Andile Phehlukwayo,India,South Africa,South Africa,224,5.57,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,4,1
-245,245,MS Dhoni,40.2,Andile Phehlukwayo,India,South Africa,South Africa,225,5.57,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
-246,246,Virat Kohli,40.3,Andile Phehlukwayo,India,South Africa,South Africa,225,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,4,0
-247,247,Virat Kohli,40.4,Andile Phehlukwayo,India,South Africa,South Africa,225,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball on stump,mid-wicket,4,0
-248,248,Virat Kohli,40.4,Andile Phehlukwayo,India,South Africa,South Africa,226,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,dot,4,1
-249,249,Virat Kohli,40.5,Andile Phehlukwayo,India,South Africa,South Africa,226,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,4,0
-250,250,Virat Kohli,40.6,Andile Phehlukwayo,India,South Africa,South Africa,227,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery on stump,deep square leg,4,1
-251,251,Virat Kohli,41.1,Imran Tahir,India,South Africa,South Africa,227,5.51,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,4,0
-252,252,Virat Kohli,41.2,Imran Tahir,India,South Africa,South Africa,228,5.51,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,bounce,deep square leg,4,1
-253,253,MS Dhoni,41.3,Imran Tahir,India,South Africa,South Africa,228,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,caught,5,-1
-254,254,Kedar Jadhav,41.4,Imran Tahir,India,South Africa,South Africa,229,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,fine leg,5,1
-255,255,Virat Kohli,41.5,Imran Tahir,India,South Africa,South Africa,230,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,5,1
-256,256,Kedar Jadhav,41.6,Imran Tahir,India,South Africa,South Africa,230,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,5,0
-257,257,Virat Kohli,42.1,Andile Phehlukwayo,India,South Africa,South Africa,230,5.45,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,5,0
-258,258,Virat Kohli,42.2,Andile Phehlukwayo,India,South Africa,South Africa,234,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,point,5,4
-259,259,Virat Kohli,42.3,Andile Phehlukwayo,India,South Africa,South Africa,235,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,leg-cutter,deep square leg,5,1
-260,260,Kedar Jadhav,42.3,Andile Phehlukwayo,India,South Africa,South Africa,236,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,,5,1
-261,261,Kedar Jadhav,42.4,Andile Phehlukwayo,India,South Africa,South Africa,236,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,caught,6,-1
-262,262,Bhuvneshwar Kumar,42.5,Andile Phehlukwayo,India,South Africa,South Africa,236,5.5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,point,6,0
-263,263,Bhuvneshwar Kumar,42.6,Andile Phehlukwayo,India,South Africa,South Africa,236,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-on,6,0
-264,264,Virat Kohli,43.1,Imran Tahir,India,South Africa,South Africa,237,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,third man,6,1
-265,265,Bhuvneshwar Kumar,43.2,Imran Tahir,India,South Africa,South Africa,238,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,long-on,6,1
-266,266,Virat Kohli,43.3,Imran Tahir,India,South Africa,South Africa,242,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery,sweep,6,4
-267,267,Virat Kohli,43.4,Imran Tahir,India,South Africa,South Africa,243,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery outside off,cover,6,1
-268,268,Bhuvneshwar Kumar,43.5,Imran Tahir,India,South Africa,South Africa,245,5.58,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery on stump,,6,2
-269,269,Bhuvneshwar Kumar,43.6,Imran Tahir,India,South Africa,South Africa,245,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,defend,6,0
-270,270,Virat Kohli,44,Andile Phehlukwayo,India,South Africa,South Africa,246,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,,,6,1
-271,271,Virat Kohli,44.1,Andile Phehlukwayo,India,South Africa,South Africa,247,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery off stump,deep square leg,6,1
-272,272,Bhuvneshwar Kumar,44.2,Andile Phehlukwayo,India,South Africa,South Africa,248,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,leg-cutter,,6,1
-273,273,Virat Kohli,44.3,Andile Phehlukwayo,India,South Africa,South Africa,252,5.66,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,mid-off,6,4
-274,274,Virat Kohli,44.3,Andile Phehlukwayo,India,South Africa,South Africa,253,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,,6,1
-275,275,Virat Kohli,44.4,Andile Phehlukwayo,India,South Africa,South Africa,254,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep point,6,1
-276,276,Bhuvneshwar Kumar,44.5,Andile Phehlukwayo,India,South Africa,South Africa,255,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,on-side,6,1
-277,277,Virat Kohli,44.6,Andile Phehlukwayo,India,South Africa,South Africa,256,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,mid-wicket,6,1
-278,278,Virat Kohli,45.1,Kagiso Rabada,India,South Africa,South Africa,258,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length on stump,mid-wicket,6,2
-279,279,Virat Kohli,45.2,Kagiso Rabada,India,South Africa,South Africa,258,5.69,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball on stump,cover,6,0
-280,280,Virat Kohli,45.3,Kagiso Rabada,India,South Africa,South Africa,259,5.69,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,deep square leg,6,1
-281,281,Bhuvneshwar Kumar,45.4,Kagiso Rabada,India,South Africa,South Africa,263,5.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,,mid-off,6,4
-282,282,Bhuvneshwar Kumar,45.5,Kagiso Rabada,India,South Africa,South Africa,264,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,point,6,1
-283,283,Virat Kohli,45.6,Kagiso Rabada,India,South Africa,South Africa,265,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,yorker,long-on,6,1
-284,284,Virat Kohli,46.1,Chris Morris,India,South Africa,South Africa,266,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,cover,6,1
-285,285,Bhuvneshwar Kumar,46.2,Chris Morris,India,South Africa,South Africa,267,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
-286,286,Virat Kohli,46.3,Chris Morris,India,South Africa,South Africa,268,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,deep square leg,6,1
-287,287,Bhuvneshwar Kumar,46.4,Chris Morris,India,South Africa,South Africa,269,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,6,1
-288,288,Virat Kohli,46.5,Chris Morris,India,South Africa,South Africa,270,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
-289,289,Bhuvneshwar Kumar,46.6,Chris Morris,India,South Africa,South Africa,270,5.74,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,point,6,0
-290,290,Virat Kohli,47.1,Kagiso Rabada,India,South Africa,South Africa,271,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,deep square leg,6,1
-291,291,Bhuvneshwar Kumar,47.2,Kagiso Rabada,India,South Africa,South Africa,272,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,square,6,1
-292,292,Virat Kohli,47.2,Kagiso Rabada,India,South Africa,South Africa,273,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,,,6,1
-293,293,Virat Kohli,47.3,Kagiso Rabada,India,South Africa,South Africa,273,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,gully,6,0
-294,294,Virat Kohli,47.4,Kagiso Rabada,India,South Africa,South Africa,274,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,long-on,6,1
-295,295,Bhuvneshwar Kumar,47.5,Kagiso Rabada,India,South Africa,South Africa,275,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,6,1
-296,296,Virat Kohli,47.6,Kagiso Rabada,India,South Africa,South Africa,276,5.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,long-on,6,1
-297,297,Virat Kohli,48.1,Chris Morris,India,South Africa,South Africa,277,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
-298,298,Bhuvneshwar Kumar,48.2,Chris Morris,India,South Africa,South Africa,278,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-wicket,6,1
-299,299,Virat Kohli,48.3,Chris Morris,India,South Africa,South Africa,284,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,long-on,6,6
-300,300,Virat Kohli,48.4,Chris Morris,India,South Africa,South Africa,285,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,fine leg,6,1
-301,301,Bhuvneshwar Kumar,48.5,Chris Morris,India,South Africa,South Africa,286,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,point,6,1
-302,302,Virat Kohli,48.5,Chris Morris,India,South Africa,South Africa,287,5.87,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,fine leg,6,1
-303,303,Virat Kohli,48.6,Chris Morris,India,South Africa,South Africa,288,5.87,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep mid-wicket,6,1
-304,304,Virat Kohli,49.1,Kagiso Rabada,India,South Africa,South Africa,289,5.87,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery,deep mid-wicket,6,1
-305,305,Bhuvneshwar Kumar,49.2,Kagiso Rabada,India,South Africa,South Africa,289,5.85,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery,dot,6,0
-306,306,Bhuvneshwar Kumar,49.3,Kagiso Rabada,India,South Africa,South Africa,291,5.87,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short outside off,mid-off,6,2
-307,307,Bhuvneshwar Kumar,49.3,Kagiso Rabada,India,South Africa,South Africa,292,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,6,1
-308,308,Bhuvneshwar Kumar,49.4,Kagiso Rabada,India,South Africa,South Africa,293,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,deep square leg,6,1
-309,309,Virat Kohli,49.5,Kagiso Rabada,India,South Africa,South Africa,299,6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,deep mid-wicket,6,6
-310,310,Virat Kohli,49.6,Kagiso Rabada,India,South Africa,South Africa,303,6.06,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,6,4
+,Unnamed: 0,Batsman_Name,Over,Bowler_Name,Batsman_country,Bowler_country,Host_country,Type_of_Match,Score,Run_rate,Match_time,Type_of_pitch,Type_of_Bowler,Type_of_Batsman,Bowling_area,Batting_area,Wickets,Result
+0,0,Rohit Sharma,0.1,Kagiso Rabada,,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,defend,0,0
+1,1,Rohit Sharma,0.2,Kagiso Rabada,India,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,0,0
+2,2,Rohit Sharma,0.3,Kagiso Rabada,India,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,0,0
+3,3,Rohit Sharma,0.4,Kagiso Rabada,India,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,point,0,0
+4,4,Rohit Sharma,0.5,Kagiso Rabada,India,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,,0,0
+5,5,Rohit Sharma,0.6,Kagiso Rabada,India,South Africa,South Africa,ODI,0,0,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,caught,1,-1
+6,6,Shikhar Dhawan,1.1,Lungi Ngidi,India,South Africa,South Africa,ODI,4,3.42,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
+7,7,Shikhar Dhawan,1.2,Lungi Ngidi,India,South Africa,South Africa,ODI,4,3,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,to the bowler,1,0
+8,8,Shikhar Dhawan,1.3,Lungi Ngidi,India,South Africa,South Africa,ODI,4,2.66,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,,1,0
+9,9,Shikhar Dhawan,1.4,Lungi Ngidi,India,South Africa,South Africa,ODI,4,2.4,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,mid-off,1,0
+10,10,Shikhar Dhawan,1.5,Lungi Ngidi,India,South Africa,South Africa,ODI,4,2.18,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,cover,1,0
+11,11,Shikhar Dhawan,1.6,Lungi Ngidi,India,South Africa,South Africa,ODI,4,2,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,bounce,,1,0
+12,12,Virat Kohli,2.1,Kagiso Rabada,India,South Africa,South Africa,ODI,4,1.84,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,1,0
+13,13,Virat Kohli,2.2,Kagiso Rabada,India,South Africa,South Africa,ODI,4,1.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
+14,14,Virat Kohli,2.3,Kagiso Rabada,India,South Africa,South Africa,ODI,4,1.6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,1,0
+15,15,Virat Kohli,2.4,Kagiso Rabada,India,South Africa,South Africa,ODI,4,1.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,1,0
+16,16,Virat Kohli,2.5,Kagiso Rabada,India,South Africa,South Africa,ODI,4,1.41,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,cover,1,0
+17,17,Virat Kohli,2.6,Kagiso Rabada,India,South Africa,South Africa,ODI,8,2.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,fine leg,1,4
+18,18,Shikhar Dhawan,3.1,Lungi Ngidi,India,South Africa,South Africa,ODI,12,3.78,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
+19,19,Shikhar Dhawan,3.2,Lungi Ngidi,India,South Africa,South Africa,ODI,13,3.9,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,fine leg,1,1
+20,20,Virat Kohli,3.3,Lungi Ngidi,India,South Africa,South Africa,ODI,14,4,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,fine leg,1,1
+21,21,Shikhar Dhawan,3.4,Lungi Ngidi,India,South Africa,South Africa,ODI,18,4.9,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,slip,1,4
+22,22,Shikhar Dhawan,3.5,Lungi Ngidi,India,South Africa,South Africa,ODI,18,4.69,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length off stump,defend,1,0
+23,23,Shikhar Dhawan,3.6,Lungi Ngidi,India,South Africa,South Africa,ODI,18,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,length ball on stump,mid-wicket,1,0
+24,24,Virat Kohli,4.1,Kagiso Rabada,India,South Africa,South Africa,ODI,18,4.32,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,defend,1,0
+25,25,Virat Kohli,4.2,Kagiso Rabada,India,South Africa,South Africa,ODI,18,4.15,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,,1,0
+26,26,Virat Kohli,4.2,Kagiso Rabada,India,South Africa,South Africa,ODI,19,4.38,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,,1,1
+27,27,Virat Kohli,4.3,Kagiso Rabada,India,South Africa,South Africa,ODI,19,4.22,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,1,0
+28,28,Virat Kohli,4.4,Kagiso Rabada,India,South Africa,South Africa,ODI,23,4.92,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,mid-wicket,1,4
+29,29,Virat Kohli,4.5,Kagiso Rabada,India,South Africa,South Africa,ODI,23,4.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,,1,0
+30,30,Virat Kohli,4.6,Kagiso Rabada,India,South Africa,South Africa,ODI,23,4.6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
+31,31,Shikhar Dhawan,5.1,Lungi Ngidi,India,South Africa,South Africa,ODI,24,4.64,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,third man,1,1
+32,32,Virat Kohli,5.2,Lungi Ngidi,India,South Africa,South Africa,ODI,24,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,inswinger,,1,0
+33,33,Virat Kohli,5.3,Lungi Ngidi,India,South Africa,South Africa,ODI,28,5.09,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,straighter delivery on stump,square,1,4
+34,34,Virat Kohli,5.4,Lungi Ngidi,India,South Africa,South Africa,ODI,28,4.94,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,leave,1,0
+35,35,Virat Kohli,5.5,Lungi Ngidi,India,South Africa,South Africa,ODI,28,4.8,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,defend,1,0
+36,36,Virat Kohli,5.6,Lungi Ngidi,India,South Africa,South Africa,ODI,28,4.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,bounce,defend,1,0
+37,37,Shikhar Dhawan,6.1,Kagiso Rabada,India,South Africa,South Africa,ODI,28,4.54,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,square,1,0
+38,38,Shikhar Dhawan,6.2,Kagiso Rabada,India,South Africa,South Africa,ODI,28,4.42,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,point,1,0
+39,39,Shikhar Dhawan,6.3,Kagiso Rabada,India,South Africa,South Africa,ODI,29,4.46,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,third man,1,1
+40,40,Virat Kohli,6.4,Kagiso Rabada,India,South Africa,South Africa,ODI,29,4.35,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,cover,1,0
+41,41,Virat Kohli,6.5,Kagiso Rabada,India,South Africa,South Africa,ODI,29,4.24,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,,1,0
+42,42,Virat Kohli,6.6,Kagiso Rabada,India,South Africa,South Africa,ODI,29,4.14,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball,defend,1,0
+43,43,Shikhar Dhawan,7.1,Lungi Ngidi,India,South Africa,South Africa,ODI,30,4.18,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,third man,1,1
+44,44,Virat Kohli,7.2,Lungi Ngidi,India,South Africa,South Africa,ODI,30,4.09,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,on-side,1,0
+45,45,Virat Kohli,7.3,Lungi Ngidi,India,South Africa,South Africa,ODI,34,4.53,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,outside off,cover,1,4
+46,46,Virat Kohli,7.4,Lungi Ngidi,India,South Africa,South Africa,ODI,35,4.56,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,gully,1,1
+47,47,Shikhar Dhawan,7.5,Lungi Ngidi,India,South Africa,South Africa,ODI,35,4.46,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,length ball outside off,off side,1,0
+48,48,Shikhar Dhawan,7.6,Lungi Ngidi,India,South Africa,South Africa,ODI,39,4.87,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,fuller delivery,cover,1,4
+49,49,Virat Kohli,8.1,Kagiso Rabada,India,South Africa,South Africa,ODI,39,4.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,1,0
+50,50,Virat Kohli,8.2,Kagiso Rabada,India,South Africa,South Africa,ODI,39,4.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,1,0
+51,51,Virat Kohli,8.3,Kagiso Rabada,India,South Africa,South Africa,ODI,39,4.58,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,,1,0
+52,52,Virat Kohli,8.4,Kagiso Rabada,India,South Africa,South Africa,ODI,39,4.5,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,yorker,,1,0
+53,53,Virat Kohli,8.5,Kagiso Rabada,India,South Africa,South Africa,ODI,40,4.52,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,bounce,square,1,1
+54,54,Shikhar Dhawan,8.6,Kagiso Rabada,India,South Africa,South Africa,ODI,44,4.88,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,outside off,cover,1,4
+55,55,Virat Kohli,9.1,Chris Morris,India,South Africa,South Africa,ODI,44,4.8,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
+56,56,Virat Kohli,9.2,Chris Morris,India,South Africa,South Africa,ODI,44,4.71,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,point,1,0
+57,57,Virat Kohli,9.3,Chris Morris,India,South Africa,South Africa,ODI,46,4.84,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,2
+58,58,Virat Kohli,9.4,Chris Morris,India,South Africa,South Africa,ODI,46,4.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,,1,0
+59,59,Virat Kohli,9.5,Chris Morris,India,South Africa,South Africa,ODI,46,4.67,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,1,0
+60,60,Virat Kohli,9.6,Chris Morris,India,South Africa,South Africa,ODI,50,5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,fine leg,1,4
+61,61,Shikhar Dhawan,10.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,51,5.01,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,deep square leg,1,1
+62,62,Virat Kohli,10.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,51,4.93,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,1,0
+63,63,Virat Kohli,10.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,52,4.95,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,1,1
+64,64,Shikhar Dhawan,10.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,52,4.87,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,mid-wicket,1,0
+65,65,Shikhar Dhawan,10.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,52,4.8,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,cover,1,0
+66,66,Shikhar Dhawan,10.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,52,4.72,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,cover,1,0
+67,67,Virat Kohli,11.1,Chris Morris,India,South Africa,South Africa,ODI,54,4.83,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,2
+68,68,Virat Kohli,11.2,Chris Morris,India,South Africa,South Africa,ODI,54,4.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length off stump,,1,0
+69,69,Virat Kohli,11.3,Chris Morris,India,South Africa,South Africa,ODI,55,4.78,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,1,1
+70,70,Shikhar Dhawan,11.4,Chris Morris,India,South Africa,South Africa,ODI,55,4.71,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,point,1,0
+71,71,Shikhar Dhawan,11.5,Chris Morris,India,South Africa,South Africa,ODI,56,4.73,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,square,1,1
+72,72,Virat Kohli,11.6,Chris Morris,India,South Africa,South Africa,ODI,57,4.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,1,1
+73,73,Virat Kohli,12.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,58,4.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,third man,1,1
+74,74,Shikhar Dhawan,12.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,60,4.93,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,,1,2
+75,75,Virat Kohli,12.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,60,4.86,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,mid-wicket,1,0
+76,76,Virat Kohli,12.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,61,4.88,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,third man,1,1
+77,77,Shikhar Dhawan,12.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,63,4.97,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,deep mid-wicket,1,2
+78,78,Shikhar Dhawan,12.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,63,4.9,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,point,1,0
+79,79,Shikhar Dhawan,12.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,67,5.15,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,fine leg,1,4
+80,80,Virat Kohli,13.1,Chris Morris,India,South Africa,South Africa,ODI,67,5.08,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,defend,1,0
+81,81,Virat Kohli,13.2,Chris Morris,India,South Africa,South Africa,ODI,68,5.1,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,,square,1,1
+82,82,Shikhar Dhawan,13.3,Chris Morris,India,South Africa,South Africa,ODI,68,5.03,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,bounce,leave,1,0
+83,83,Shikhar Dhawan,13.4,Chris Morris,India,South Africa,South Africa,ODI,68,4.97,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball outside off,,1,0
+84,84,Shikhar Dhawan,13.5,Chris Morris,India,South Africa,South Africa,ODI,68,4.91,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,yorker,mid-on,1,0
+85,85,Shikhar Dhawan,13.6,Chris Morris,India,South Africa,South Africa,ODI,69,4.92,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length outside off,third man,1,1
+86,86,Shikhar Dhawan,14.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,71,5.01,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,point,1,2
+87,87,Shikhar Dhawan,14.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,75,5.23,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,length ball,mid-on,1,4
+88,88,Shikhar Dhawan,14.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,76,5.24,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,fuller delivery,third man,1,1
+89,89,Virat Kohli,14.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,77,5.25,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,deep point,1,1
+90,90,Shikhar Dhawan,14.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,78,5.25,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short ball,deep square leg,1,1
+91,91,Virat Kohli,14.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,79,5.26,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,1,1
+92,92,Virat Kohli,15.1,Chris Morris,India,South Africa,South Africa,ODI,80,5.27,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-wicket,1,1
+93,93,Shikhar Dhawan,15.2,Chris Morris,India,South Africa,South Africa,ODI,81,5.28,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short and wide,deep point,1,1
+94,94,Virat Kohli,15.3,Chris Morris,India,South Africa,South Africa,ODI,82,5.29,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,deep point,1,1
+95,95,Shikhar Dhawan,15.4,Chris Morris,India,South Africa,South Africa,ODI,82,5.23,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short,gully,1,0
+96,96,Shikhar Dhawan,15.5,Chris Morris,India,South Africa,South Africa,ODI,86,5.43,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length on stump,square,1,4
+97,97,Shikhar Dhawan,15.6,Chris Morris,India,South Africa,South Africa,ODI,87,5.43,Day/Night,Flat/Cloudy,Right_arm_medium,Left_Hand_Batsman,short of a length off stump,deep square leg,1,1
+98,98,Shikhar Dhawan,16.1,Imran Tahir,India,South Africa,South Africa,ODI,87,5.38,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,,1,0
+99,99,Shikhar Dhawan,16.2,Imran Tahir,India,South Africa,South Africa,ODI,91,5.57,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball on stump,square,1,4
+100,100,Shikhar Dhawan,16.3,Imran Tahir,India,South Africa,South Africa,ODI,93,5.63,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,1,2
+101,101,Shikhar Dhawan,16.4,Imran Tahir,India,South Africa,South Africa,ODI,93,5.58,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,short of a length off stump,third man,1,0
+102,102,Shikhar Dhawan,16.5,Imran Tahir,India,South Africa,South Africa,ODI,97,5.76,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,mid-wicket,1,4
+103,103,Shikhar Dhawan,16.6,Imran Tahir,India,South Africa,South Africa,ODI,97,5.7,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,short of a length off stump,off side,1,0
+104,104,Virat Kohli,17.1,Lungi Ngidi,India,South Africa,South Africa,ODI,99,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,mid-off,1,2
+105,105,Virat Kohli,17.2,Lungi Ngidi,India,South Africa,South Africa,ODI,100,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,third man,1,1
+106,106,Shikhar Dhawan,17.2,Lungi Ngidi,India,South Africa,South Africa,ODI,101,5.82,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,bounce,,1,1
+107,107,Shikhar Dhawan,17.3,Lungi Ngidi,India,South Africa,South Africa,ODI,102,5.82,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short ball,fine leg,1,1
+108,108,Virat Kohli,17.4,Lungi Ngidi,India,South Africa,South Africa,ODI,102,5.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,cover,1,0
+109,109,Virat Kohli,17.5,Lungi Ngidi,India,South Africa,South Africa,ODI,103,5.77,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery outside off,cover,1,1
+110,110,Shikhar Dhawan,17.5,Lungi Ngidi,India,South Africa,South Africa,ODI,104,5.83,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,,slip,1,1
+111,111,Shikhar Dhawan,17.6,Lungi Ngidi,India,South Africa,South Africa,ODI,105,5.83,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length outside off,third man,1,1
+112,112,Shikhar Dhawan,18.1,Imran Tahir,India,South Africa,South Africa,ODI,106,5.83,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up on stump,square,1,1
+113,113,Virat Kohli,18.2,Imran Tahir,India,South Africa,South Africa,ODI,107,5.83,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,mid-off,1,1
+114,114,Shikhar Dhawan,18.3,Imran Tahir,India,South Africa,South Africa,ODI,107,5.78,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball outside off,point,1,0
+115,115,Shikhar Dhawan,18.4,Imran Tahir,India,South Africa,South Africa,ODI,108,5.78,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,fuller delivery,long-off,1,1
+116,116,Virat Kohli,18.5,Imran Tahir,India,South Africa,South Africa,ODI,108,5.73,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,0
+117,117,Virat Kohli,18.6,Imran Tahir,India,South Africa,South Africa,ODI,108,5.68,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball off stump,defend,1,0
+118,118,Shikhar Dhawan,19.1,Lungi Ngidi,India,South Africa,South Africa,ODI,112,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short and wide,off side,1,4
+119,119,Shikhar Dhawan,19.2,Lungi Ngidi,India,South Africa,South Africa,ODI,113,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short,fine leg,1,1
+120,120,Virat Kohli,19.3,Lungi Ngidi,India,South Africa,South Africa,ODI,114,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length on stump,fine leg,1,1
+121,121,Shikhar Dhawan,19.4,Lungi Ngidi,India,South Africa,South Africa,ODI,115,5.84,Day/Night,Flat/Cloudy,Right_arm_fast,Left_Hand_Batsman,short of a length on stump,fine leg,1,1
+122,122,Virat Kohli,19.5,Lungi Ngidi,India,South Africa,South Africa,ODI,117,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,third man,1,2
+123,123,Virat Kohli,19.6,Lungi Ngidi,India,South Africa,South Africa,ODI,118,5.9,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,fine leg,1,1
+124,124,Virat Kohli,20.1,Imran Tahir,India,South Africa,South Africa,ODI,119,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length,long-on,1,1
+125,125,Shikhar Dhawan,20.2,Imran Tahir,India,South Africa,South Africa,ODI,120,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,off stump,long-off,1,1
+126,126,Virat Kohli,20.3,Imran Tahir,India,South Africa,South Africa,ODI,121,5.9,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,cover,1,1
+127,127,Shikhar Dhawan,20.4,Imran Tahir,India,South Africa,South Africa,ODI,125,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball outside off,deep mid-wicket,1,4
+128,128,Shikhar Dhawan,20.5,Imran Tahir,India,South Africa,South Africa,ODI,126,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-off,1,1
+129,129,Virat Kohli,20.6,Imran Tahir,India,South Africa,South Africa,ODI,127,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up outside off,long-off,1,1
+130,130,Virat Kohli,21.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,128,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-on,1,1
+131,131,Shikhar Dhawan,21.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,129,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,fuller delivery,long-off,1,1
+132,132,Virat Kohli,21.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,129,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,,1,0
+133,133,Virat Kohli,21.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,129,5.95,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,,1,0
+134,134,Virat Kohli,21.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,132,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short and wide,sweep,1,3
+135,135,Shikhar Dhawan,21.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,132,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,toss up,mid-wicket,1,0
+136,136,Virat Kohli,22.1,Imran Tahir,India,South Africa,South Africa,ODI,136,6.13,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,1,4
+137,137,Virat Kohli,22.2,Imran Tahir,India,South Africa,South Africa,ODI,137,6.13,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,third man,1,1
+138,138,Shikhar Dhawan,22.3,Imran Tahir,India,South Africa,South Africa,ODI,137,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,length ball off stump,to the bowler,1,0
+139,139,Shikhar Dhawan,22.4,Imran Tahir,India,South Africa,South Africa,ODI,138,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,toss up outside off,long-off,1,1
+140,140,Virat Kohli,22.5,Imran Tahir,India,South Africa,South Africa,ODI,139,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,off stump,long-off,1,1
+141,141,Shikhar Dhawan,22.6,Imran Tahir,India,South Africa,South Africa,ODI,140,6.08,Day/Night,Flat/Cloudy,Right_arm_legbreak,Left_Hand_Batsman,googly,long-off,1,1
+142,142,Shikhar Dhawan,23.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,140,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Left_Hand_Batsman,slow delivery off stump,caught,2,-1
+143,143,Ajinkya Rahane,23.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,141,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball,long-on,2,1
+144,144,Virat Kohli,23.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,142,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up,long-on,2,1
+145,145,Ajinkya Rahane,23.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,143,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball,mid-wicket,2,1
+146,146,Virat Kohli,23.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,144,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,long-on,2,1
+147,147,Ajinkya Rahane,23.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,145,6.04,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
+148,148,Ajinkya Rahane,24.1,Imran Tahir,India,South Africa,South Africa,ODI,146,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball,,2,1
+149,149,Virat Kohli,24.2,Imran Tahir,India,South Africa,South Africa,ODI,147,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up off stump,cover,2,1
+150,150,Ajinkya Rahane,24.3,Imran Tahir,India,South Africa,South Africa,ODI,148,6.04,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,outside off,,2,1
+151,151,Virat Kohli,24.4,Imran Tahir,India,South Africa,South Africa,ODI,148,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball on stump,cover,2,0
+152,152,Virat Kohli,24.5,Imran Tahir,India,South Africa,South Africa,ODI,149,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,,2,1
+153,153,Ajinkya Rahane,24.6,Imran Tahir,India,South Africa,South Africa,ODI,150,6,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
+154,154,Ajinkya Rahane,25.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,151,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,cover,2,1
+155,155,Virat Kohli,25.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,152,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,cover,2,1
+156,156,Ajinkya Rahane,25.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,153,6,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball off stump,,2,1
+157,157,Virat Kohli,25.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,153,5.96,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,2,0
+158,158,Virat Kohli,25.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,153,5.92,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,,2,0
+159,159,Virat Kohli,25.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,154,5.92,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery,cover,2,1
+160,160,Virat Kohli,26.1,Imran Tahir,India,South Africa,South Africa,ODI,154,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short of a length,,2,0
+161,161,Virat Kohli,26.2,Imran Tahir,India,South Africa,South Africa,ODI,155,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,outside off,cover,2,1
+162,162,Ajinkya Rahane,26.3,Imran Tahir,India,South Africa,South Africa,ODI,156,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,length ball outside off,long-off,2,1
+163,163,Virat Kohli,26.4,Imran Tahir,India,South Africa,South Africa,ODI,157,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
+164,164,Ajinkya Rahane,26.5,Imran Tahir,India,South Africa,South Africa,ODI,158,5.88,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,long-on,2,1
+165,165,Virat Kohli,26.6,Imran Tahir,India,South Africa,South Africa,ODI,158,5.85,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,fuller delivery,cover,2,0
+166,166,Ajinkya Rahane,27.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,159,5.85,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,defend,2,1
+167,167,Virat Kohli,27.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,160,5.85,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,deep mid-wicket,2,1
+168,168,Ajinkya Rahane,27.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,160,5.81,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,point,2,0
+169,169,Ajinkya Rahane,27.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,160,5.78,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery off stump,caught,3,-1
+170,170,Virat Kohli,27.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,161,5.78,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,deep mid-wicket,3,1
+171,171,Hardik Pandya,27.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,161,5.75,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,defend,3,0
+172,172,Virat Kohli,28.1,Kagiso Rabada,India,South Africa,South Africa,ODI,161,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,off side,3,0
+173,173,Virat Kohli,28.2,Kagiso Rabada,India,South Africa,South Africa,ODI,162,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length,deep mid-wicket,3,1
+174,174,Hardik Pandya,28.3,Kagiso Rabada,India,South Africa,South Africa,ODI,162,5.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,defend,3,0
+175,175,Hardik Pandya,28.4,Kagiso Rabada,India,South Africa,South Africa,ODI,163,5.68,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball off stump,cover,3,1
+176,176,Virat Kohli,28.5,Kagiso Rabada,India,South Africa,South Africa,ODI,163,5.65,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,off side,3,0
+177,177,Virat Kohli,28.6,Kagiso Rabada,India,South Africa,South Africa,ODI,164,5.65,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,fine leg,3,1
+178,178,Virat Kohli,29.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,164,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,3,0
+179,179,Virat Kohli,29.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,165,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,,3,1
+180,180,Hardik Pandya,29.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,166,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,mid-off,3,1
+181,181,Virat Kohli,29.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,167,5.62,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length off stump,deep mid-wicket,3,1
+182,182,Hardik Pandya,29.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,169,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length,sweep,3,2
+183,183,Hardik Pandya,29.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,170,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery off stump,mid-off,3,1
+184,184,Hardik Pandya,30.1,Kagiso Rabada,India,South Africa,South Africa,ODI,171,5.66,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball on stump,deep square leg,3,1
+185,185,Virat Kohli,30.2,Kagiso Rabada,India,South Africa,South Africa,ODI,173,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,square,3,2
+186,186,Virat Kohli,30.3,Kagiso Rabada,India,South Africa,South Africa,ODI,173,5.67,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,,3,0
+187,187,Virat Kohli,30.4,Kagiso Rabada,India,South Africa,South Africa,ODI,175,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball outside off,sweep,3,2
+188,188,Virat Kohli,30.5,Kagiso Rabada,India,South Africa,South Africa,ODI,176,5.7,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,outside off,cover,3,1
+189,189,Hardik Pandya,30.6,Kagiso Rabada,India,South Africa,South Africa,ODI,176,5.67,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length outside off,defend,3,0
+190,190,Virat Kohli,31.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,178,5.71,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short of a length outside off,third man,3,2
+191,191,Virat Kohli,31.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,179,5.71,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,slow delivery,mid-off,3,1
+192,192,Hardik Pandya,31.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,185,5.87,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,straighter delivery,long-off,3,6
+193,193,Hardik Pandya,31.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,185,5.84,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up off stump,to the bowler,3,0
+194,194,Hardik Pandya,31.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,186,5.84,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,length ball outside off,third man,3,1
+195,195,Virat Kohli,31.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,186,5.81,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,,3,0
+196,196,Hardik Pandya,32.1,Chris Morris,India,South Africa,South Africa,ODI,187,5.81,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball off stump,cover,3,1
+197,197,Virat Kohli,32.2,Chris Morris,India,South Africa,South Africa,ODI,188,5.81,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,3,1
+198,198,Hardik Pandya,32.3,Chris Morris,India,South Africa,South Africa,ODI,188,5.78,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length outside off,cover,3,0
+199,199,Hardik Pandya,32.4,Chris Morris,India,South Africa,South Africa,ODI,188,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery,mid-wicket,3,0
+200,200,Hardik Pandya,32.5,Chris Morris,India,South Africa,South Africa,ODI,188,5.72,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,caught,4,-1
+201,201,MS Dhoni,32.6,Chris Morris,India,South Africa,South Africa,ODI,188,5.69,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short and wide,,4,0
+202,202,Virat Kohli,33.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,188,5.66,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,leg-side,,4,0
+203,203,Virat Kohli,33.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,189,5.67,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,long-on,4,1
+204,204,MS Dhoni,33.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,189,5.64,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,to the bowler,4,0
+205,205,MS Dhoni,33.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,189,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,slow delivery outside off,dot,4,0
+206,206,MS Dhoni,33.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,190,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short and wide,cover,4,1
+207,207,Virat Kohli,33.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,191,5.61,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,mid-wicket,4,1
+208,208,Virat Kohli,34.1,Chris Morris,India,South Africa,South Africa,ODI,191,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,,4,0
+209,209,Virat Kohli,34.2,Chris Morris,India,South Africa,South Africa,ODI,192,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,third man,4,1
+210,210,MS Dhoni,34.3,Chris Morris,India,South Africa,South Africa,ODI,193,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
+211,211,Virat Kohli,34.4,Chris Morris,India,South Africa,South Africa,ODI,193,5.56,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,mid-wicket,4,0
+212,212,Virat Kohli,34.5,Chris Morris,India,South Africa,South Africa,ODI,193,5.54,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,,4,0
+213,213,Virat Kohli,34.6,Chris Morris,India,South Africa,South Africa,ODI,194,5.54,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,third man,4,1
+214,214,Virat Kohli,35.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,195,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,outside off,to the bowler,4,1
+215,215,MS Dhoni,35.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,196,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,long-on,4,1
+216,216,Virat Kohli,35.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,197,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,long-off,4,1
+217,217,MS Dhoni,35.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,197,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,4,0
+218,218,MS Dhoni,35.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,198,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,mid-on,4,1
+219,219,Virat Kohli,35.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,200,5.55,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,square,4,2
+220,220,MS Dhoni,36.1,Chris Morris,India,South Africa,South Africa,ODI,200,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,4,0
+221,221,MS Dhoni,36.2,Chris Morris,India,South Africa,South Africa,ODI,200,5.5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,leave,4,0
+222,222,MS Dhoni,36.3,Chris Morris,India,South Africa,South Africa,ODI,200,5.47,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,leave,4,0
+223,223,MS Dhoni,36.4,Chris Morris,India,South Africa,South Africa,ODI,201,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
+224,224,Virat Kohli,36.5,Chris Morris,India,South Africa,South Africa,ODI,202,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,third man,4,1
+225,225,MS Dhoni,36.6,Chris Morris,India,South Africa,South Africa,ODI,202,5.45,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,square,4,0
+226,226,Virat Kohli,37.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,206,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,cover,4,4
+227,227,Virat Kohli,37.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,207,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery outside off,long-off,4,1
+228,228,MS Dhoni,37.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,208,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,square,4,1
+229,229,Virat Kohli,37.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,209,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,toss up outside off,long-on,4,1
+230,230,MS Dhoni,37.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,209,5.52,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,mid-wicket,4,0
+231,231,MS Dhoni,37.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,209,5.5,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,,4,0
+232,232,Virat Kohli,38.1,Imran Tahir,India,South Africa,South Africa,ODI,209,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,point,4,0
+233,233,Virat Kohli,38.2,Imran Tahir,India,South Africa,South Africa,ODI,210,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short outside off,third man,4,1
+234,234,MS Dhoni,38.3,Imran Tahir,India,South Africa,South Africa,ODI,211,5.48,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,fine leg,4,1
+235,235,Virat Kohli,38.4,Imran Tahir,India,South Africa,South Africa,ODI,212,5.48,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up on stump,long-on,4,1
+236,236,MS Dhoni,38.5,Imran Tahir,India,South Africa,South Africa,ODI,212,5.45,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,toss up outside off,cover,4,0
+237,237,MS Dhoni,38.6,Imran Tahir,India,South Africa,South Africa,ODI,212,5.43,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,,dot,4,0
+238,238,Virat Kohli,39.1,Jean-Paul Duminy,India,South Africa,South Africa,ODI,214,5.46,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short,fine leg,4,2
+239,239,Virat Kohli,39.2,Jean-Paul Duminy,India,South Africa,South Africa,ODI,216,5.49,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,flight delivery outside off,cover,4,2
+240,240,Virat Kohli,39.3,Jean-Paul Duminy,India,South Africa,South Africa,ODI,220,5.56,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,4,4
+241,241,Virat Kohli,39.4,Jean-Paul Duminy,India,South Africa,South Africa,ODI,220,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,fuller delivery,mid-wicket,4,0
+242,242,Virat Kohli,39.5,Jean-Paul Duminy,India,South Africa,South Africa,ODI,221,5.54,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,short,,4,1
+243,243,MS Dhoni,39.6,Jean-Paul Duminy,India,South Africa,South Africa,ODI,223,5.57,Day/Night,Flat/Cloudy,Right_arm_offbreak,Right_Hand_Batsman,,square,4,2
+244,244,Virat Kohli,40.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,224,5.57,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-off,4,1
+245,245,MS Dhoni,40.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,225,5.57,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,cover,4,1
+246,246,Virat Kohli,40.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,225,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,4,0
+247,247,Virat Kohli,40.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,225,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball on stump,mid-wicket,4,0
+248,248,Virat Kohli,40.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,226,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,dot,4,1
+249,249,Virat Kohli,40.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,226,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,cover,4,0
+250,250,Virat Kohli,40.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,227,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,straighter delivery on stump,deep square leg,4,1
+251,251,Virat Kohli,41.1,Imran Tahir,India,South Africa,South Africa,ODI,227,5.51,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,4,0
+252,252,Virat Kohli,41.2,Imran Tahir,India,South Africa,South Africa,ODI,228,5.51,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,bounce,deep square leg,4,1
+253,253,MS Dhoni,41.3,Imran Tahir,India,South Africa,South Africa,ODI,228,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery off stump,caught,5,-1
+254,254,Kedar Jadhav,41.4,Imran Tahir,India,South Africa,South Africa,ODI,229,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,fine leg,5,1
+255,255,Virat Kohli,41.5,Imran Tahir,India,South Africa,South Africa,ODI,230,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,5,1
+256,256,Kedar Jadhav,41.6,Imran Tahir,India,South Africa,South Africa,ODI,230,5.47,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short and wide,third man,5,0
+257,257,Virat Kohli,42.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,230,5.45,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,cover,5,0
+258,258,Virat Kohli,42.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,234,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,point,5,4
+259,259,Virat Kohli,42.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,235,5.52,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,leg-cutter,deep square leg,5,1
+260,260,Kedar Jadhav,42.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,236,5.55,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short,,5,1
+261,261,Kedar Jadhav,42.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,236,5.53,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,caught,6,-1
+262,262,Bhuvneshwar Kumar,42.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,236,5.5,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,length ball outside off,point,6,0
+263,263,Bhuvneshwar Kumar,42.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,236,5.48,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-on,6,0
+264,264,Virat Kohli,43.1,Imran Tahir,India,South Africa,South Africa,ODI,237,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,short,third man,6,1
+265,265,Bhuvneshwar Kumar,43.2,Imran Tahir,India,South Africa,South Africa,ODI,238,5.49,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,long-on,6,1
+266,266,Virat Kohli,43.3,Imran Tahir,India,South Africa,South Africa,ODI,242,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery,sweep,6,4
+267,267,Virat Kohli,43.4,Imran Tahir,India,South Africa,South Africa,ODI,243,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flight delivery outside off,cover,6,1
+268,268,Bhuvneshwar Kumar,43.5,Imran Tahir,India,South Africa,South Africa,ODI,245,5.58,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,flatter delivery on stump,,6,2
+269,269,Bhuvneshwar Kumar,43.6,Imran Tahir,India,South Africa,South Africa,ODI,245,5.56,Day/Night,Flat/Cloudy,Right_arm_legbreak,Right_Hand_Batsman,googly,defend,6,0
+270,270,Virat Kohli,44,Andile Phehlukwayo,India,South Africa,South Africa,ODI,246,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,,,6,1
+271,271,Virat Kohli,44.1,Andile Phehlukwayo,India,South Africa,South Africa,ODI,247,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery off stump,deep square leg,6,1
+272,272,Bhuvneshwar Kumar,44.2,Andile Phehlukwayo,India,South Africa,South Africa,ODI,248,5.59,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,leg-cutter,,6,1
+273,273,Virat Kohli,44.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,252,5.66,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery outside off,mid-off,6,4
+274,274,Virat Kohli,44.3,Andile Phehlukwayo,India,South Africa,South Africa,ODI,253,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,,6,1
+275,275,Virat Kohli,44.4,Andile Phehlukwayo,India,South Africa,South Africa,ODI,254,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep point,6,1
+276,276,Bhuvneshwar Kumar,44.5,Andile Phehlukwayo,India,South Africa,South Africa,ODI,255,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,on-side,6,1
+277,277,Virat Kohli,44.6,Andile Phehlukwayo,India,South Africa,South Africa,ODI,256,5.68,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,slow delivery,mid-wicket,6,1
+278,278,Virat Kohli,45.1,Kagiso Rabada,India,South Africa,South Africa,ODI,258,5.71,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length on stump,mid-wicket,6,2
+279,279,Virat Kohli,45.2,Kagiso Rabada,India,South Africa,South Africa,ODI,258,5.69,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,length ball on stump,cover,6,0
+280,280,Virat Kohli,45.3,Kagiso Rabada,India,South Africa,South Africa,ODI,259,5.69,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,deep square leg,6,1
+281,281,Bhuvneshwar Kumar,45.4,Kagiso Rabada,India,South Africa,South Africa,ODI,263,5.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,,mid-off,6,4
+282,282,Bhuvneshwar Kumar,45.5,Kagiso Rabada,India,South Africa,South Africa,ODI,264,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,point,6,1
+283,283,Virat Kohli,45.6,Kagiso Rabada,India,South Africa,South Africa,ODI,265,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,yorker,long-on,6,1
+284,284,Virat Kohli,46.1,Chris Morris,India,South Africa,South Africa,ODI,266,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,cover,6,1
+285,285,Bhuvneshwar Kumar,46.2,Chris Morris,India,South Africa,South Africa,ODI,267,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
+286,286,Virat Kohli,46.3,Chris Morris,India,South Africa,South Africa,ODI,268,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length on stump,deep square leg,6,1
+287,287,Bhuvneshwar Kumar,46.4,Chris Morris,India,South Africa,South Africa,ODI,269,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,point,6,1
+288,288,Virat Kohli,46.5,Chris Morris,India,South Africa,South Africa,ODI,270,5.76,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
+289,289,Bhuvneshwar Kumar,46.6,Chris Morris,India,South Africa,South Africa,ODI,270,5.74,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,yorker,point,6,0
+290,290,Virat Kohli,47.1,Kagiso Rabada,India,South Africa,South Africa,ODI,271,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,deep square leg,6,1
+291,291,Bhuvneshwar Kumar,47.2,Kagiso Rabada,India,South Africa,South Africa,ODI,272,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,square,6,1
+292,292,Virat Kohli,47.2,Kagiso Rabada,India,South Africa,South Africa,ODI,273,5.76,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,,,6,1
+293,293,Virat Kohli,47.3,Kagiso Rabada,India,South Africa,South Africa,ODI,273,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short ball,gully,6,0
+294,294,Virat Kohli,47.4,Kagiso Rabada,India,South Africa,South Africa,ODI,274,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,long-on,6,1
+295,295,Bhuvneshwar Kumar,47.5,Kagiso Rabada,India,South Africa,South Africa,ODI,275,5.74,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,6,1
+296,296,Virat Kohli,47.6,Kagiso Rabada,India,South Africa,South Africa,ODI,276,5.75,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,long-on,6,1
+297,297,Virat Kohli,48.1,Chris Morris,India,South Africa,South Africa,ODI,277,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,long-on,6,1
+298,298,Bhuvneshwar Kumar,48.2,Chris Morris,India,South Africa,South Africa,ODI,278,5.75,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,mid-wicket,6,1
+299,299,Virat Kohli,48.3,Chris Morris,India,South Africa,South Africa,ODI,284,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,long-on,6,6
+300,300,Virat Kohli,48.4,Chris Morris,India,South Africa,South Africa,ODI,285,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,fine leg,6,1
+301,301,Bhuvneshwar Kumar,48.5,Chris Morris,India,South Africa,South Africa,ODI,286,5.85,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,short of a length,point,6,1
+302,302,Virat Kohli,48.5,Chris Morris,India,South Africa,South Africa,ODI,287,5.87,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,fine leg,6,1
+303,303,Virat Kohli,48.6,Chris Morris,India,South Africa,South Africa,ODI,288,5.87,Day/Night,Flat/Cloudy,Right_arm_medium,Right_Hand_Batsman,fuller delivery,deep mid-wicket,6,1
+304,304,Virat Kohli,49.1,Kagiso Rabada,India,South Africa,South Africa,ODI,289,5.87,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery,deep mid-wicket,6,1
+305,305,Bhuvneshwar Kumar,49.2,Kagiso Rabada,India,South Africa,South Africa,ODI,289,5.85,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,slow delivery,dot,6,0
+306,306,Bhuvneshwar Kumar,49.3,Kagiso Rabada,India,South Africa,South Africa,ODI,291,5.87,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short outside off,mid-off,6,2
+307,307,Bhuvneshwar Kumar,49.3,Kagiso Rabada,India,South Africa,South Africa,ODI,292,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,,6,1
+308,308,Bhuvneshwar Kumar,49.4,Kagiso Rabada,India,South Africa,South Africa,ODI,293,5.89,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short,deep square leg,6,1
+309,309,Virat Kohli,49.5,Kagiso Rabada,India,South Africa,South Africa,ODI,299,6,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,short of a length off stump,deep mid-wicket,6,6
+310,310,Virat Kohli,49.6,Kagiso Rabada,India,South Africa,South Africa,ODI,303,6.06,Day/Night,Flat/Cloudy,Right_arm_fast,Right_Hand_Batsman,fuller delivery,mid-off,6,4
